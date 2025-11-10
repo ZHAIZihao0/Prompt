@@ -19,8 +19,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -43,8 +45,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -67,8 +71,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -91,8 +97,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -115,8 +123,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -139,8 +149,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -163,8 +175,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -187,8 +201,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -211,8 +227,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -235,8 +253,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -259,8 +279,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -283,8 +305,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -307,8 +331,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -331,8 +357,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -355,8 +383,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -379,8 +409,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -403,8 +435,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -427,8 +461,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -451,8 +487,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -475,8 +513,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -499,8 +539,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -523,8 +565,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -547,8 +591,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -571,8 +617,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -595,8 +643,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -619,8 +669,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -643,8 +695,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -667,8 +721,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -691,8 +747,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -715,8 +773,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -739,8 +799,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -763,8 +825,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -787,8 +851,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -811,8 +877,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -835,14 +903,16 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
     "data cell": {
       "value": "",
-      "confidence": "high"
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 10, Column 2",
@@ -859,14 +929,16 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
     "data cell": {
       "value": "",
-      "confidence": "high"
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 10, Column 3",
@@ -883,14 +955,16 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
     "data cell": {
       "value": "",
-      "confidence": "high"
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 10, Column 4",
@@ -907,14 +981,16 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
     "data cell": {
       "value": "",
-      "confidence": "high"
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 10, Column 5",
@@ -931,8 +1007,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -955,8 +1033,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -974,13 +1054,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -998,13 +1084,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1022,13 +1114,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1046,13 +1144,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1070,13 +1174,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1094,13 +1204,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1118,13 +1234,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1142,13 +1264,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1166,13 +1294,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1190,13 +1324,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1214,13 +1354,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1238,13 +1384,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1262,13 +1414,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1286,13 +1444,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1310,13 +1474,19 @@
         "confidence": "high"
       },
       "row header level-2": {
+        "value": "Smoking",
+        "confidence": "high"
+      },
+      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1339,8 +1509,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1363,8 +1535,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1387,8 +1561,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1411,8 +1587,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1435,8 +1613,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1459,8 +1639,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1483,8 +1665,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1507,8 +1691,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1531,8 +1717,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1555,8 +1743,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1579,8 +1769,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1603,8 +1795,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1627,8 +1821,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1651,8 +1847,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1675,8 +1873,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1699,8 +1899,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1723,8 +1925,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1747,8 +1951,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1771,8 +1977,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1795,8 +2003,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1819,8 +2029,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1843,8 +2055,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1867,8 +2081,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1891,8 +2107,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1915,8 +2133,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1939,8 +2159,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1963,8 +2185,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -1987,8 +2211,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2011,8 +2237,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2035,8 +2263,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2059,8 +2289,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2083,8 +2315,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2107,8 +2341,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2131,8 +2367,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2155,8 +2393,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2179,8 +2419,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2203,8 +2445,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2227,8 +2471,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2251,8 +2497,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2275,8 +2523,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2299,8 +2549,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2323,8 +2575,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2347,8 +2601,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2371,8 +2627,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2395,8 +2653,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2419,8 +2679,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2443,8 +2705,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2467,8 +2731,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2491,8 +2757,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2515,8 +2783,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2539,8 +2809,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2563,8 +2835,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2587,8 +2861,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2611,8 +2887,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2635,8 +2913,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2659,8 +2939,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2683,8 +2965,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2707,8 +2991,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2731,8 +3017,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2755,8 +3043,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2779,8 +3069,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2803,8 +3095,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2827,8 +3121,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2851,8 +3147,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2875,8 +3173,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2899,8 +3199,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2923,8 +3225,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2947,8 +3251,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2971,8 +3277,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -2995,8 +3303,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3019,8 +3329,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3043,8 +3355,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3067,8 +3381,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3091,8 +3407,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3115,8 +3433,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3139,8 +3459,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3163,8 +3485,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3187,8 +3511,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3211,8 +3537,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3235,8 +3563,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3259,8 +3589,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3283,8 +3615,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3307,8 +3641,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3331,8 +3667,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3355,8 +3693,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3379,8 +3719,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3403,8 +3745,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3427,8 +3771,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3451,8 +3797,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3475,8 +3823,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3499,8 +3849,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3523,8 +3875,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3547,8 +3901,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3571,8 +3927,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3595,8 +3953,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3619,8 +3979,10 @@
       }
     },
     "column header": {
-      "value": "Placebo",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Placebo",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3643,8 +4005,10 @@
       }
     },
     "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Semaglutide",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3667,8 +4031,10 @@
       }
     },
     "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Empagliflozin",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3691,8 +4057,10 @@
       }
     },
     "column header": {
-      "value": "Combination",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Combination",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -3715,8 +4083,10 @@
       }
     },
     "column header": {
-      "value": "p value",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "p value",
+        "confidence": "high"
+      }
     }
   }
 ]
