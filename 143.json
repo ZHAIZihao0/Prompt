@@ -1,1991 +1,1759 @@
 [
   {
-    "value": "60.3 ± 9.6",
-    "location": { "row_index": 1, "column_index": 1 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "60.3 ± 9.6", "confidence": "high"},
+    "location": {"value": "Row 1, Column 2", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "60.0 ± 10.1",
-    "location": { "row_index": 1, "column_index": 2 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "60.0 ± 10.1", "confidence": "high"},
+    "location": {"value": "Row 1, Column 3", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "59.4 ± 10.1",
-    "location": { "row_index": 1, "column_index": 3 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "59.4 ± 10.1", "confidence": "high"},
+    "location": {"value": "Row 1, Column 4", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "59.1 ± 10.7",
-    "location": { "row_index": 1, "column_index": 4 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "59.1 ± 10.7", "confidence": "high"},
+    "location": {"value": "Row 1, Column 5", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "60.6 ± 11.5",
-    "location": { "row_index": 1, "column_index": 5 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "60.6 ± 11.5", "confidence": "high"},
+    "location": {"value": "Row 1, Column 6", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "61.6 ± 10.3",
-    "location": { "row_index": 1, "column_index": 6 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "61.6 ± 10.3", "confidence": "high"},
+    "location": {"value": "Row 1, Column 7", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "58.9 ± 10.7",
-    "location": { "row_index": 1, "column_index": 7 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "58.9 ± 10.7", "confidence": "high"},
+    "location": {"value": "Row 1, Column 8", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "60.1 ± 10.9",
-    "location": { "row_index": 1, "column_index": 8 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "60.1 ± 10.9", "confidence": "high"},
+    "location": {"value": "Row 1, Column 9", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "57.9 ± 10.5",
-    "location": { "row_index": 1, "column_index": 9 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "57.9 ± 10.5", "confidence": "high"},
+    "location": {"value": "Row 1, Column 10", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "58.8 ± 11.5",
-    "location": { "row_index": 1, "column_index": 10 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "58.8 ± 11.5", "confidence": "high"},
+    "location": {"value": "Row 1, Column 11", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "58.9 ± 10.6",
-    "location": { "row_index": 1, "column_index": 11 },
-    "row header": "Age, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "58.9 ± 10.6", "confidence": "high"},
+    "location": {"value": "Row 1, Column 12", "confidence": "high"},
+    "row header": {"value": "Age, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "161 (53.1)",
-    "location": { "row_index": 2, "column_index": 1 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "161 (53.1)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 2", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "145 (48.0)",
-    "location": { "row_index": 2, "column_index": 2 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "145 (48.0)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 3", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "150 (49.5)",
-    "location": { "row_index": 2, "column_index": 3 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "150 (49.5)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 4", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "50 (54.3)",
-    "location": { "row_index": 2, "column_index": 4 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "50 (54.3)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 5", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "51 (54.8)",
-    "location": { "row_index": 2, "column_index": 5 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "51 (54.8)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 6", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "53 (57.0)",
-    "location": { "row_index": 2, "column_index": 6 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "53 (57.0)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 7", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "43 (46.7)",
-    "location": { "row_index": 2, "column_index": 7 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "43 (46.7)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 8", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "44 (56.4)",
-    "location": { "row_index": 2, "column_index": 8 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "44 (56.4)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 9", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "44 (57.1)",
-    "location": { "row_index": 2, "column_index": 9 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "44 (57.1)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 10", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "39 (50.0)",
-    "location": { "row_index": 2, "column_index": 10 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "39 (50.0)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 11", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "45 (57.0)",
-    "location": { "row_index": 2, "column_index": 11 },
-    "row header": "Male, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "45 (57.0)", "confidence": "high"},
+    "location": {"value": "Row 2, Column 12", "confidence": "high"},
+    "row header": {"value": "Male, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "271 (89.4)",
-    "location": { "row_index": 3, "column_index": 1 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "271 (89.4)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "263 (87.1)",
-    "location": { "row_index": 3, "column_index": 2 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "263 (87.1)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "275 (90.8)",
-    "location": { "row_index": 3, "column_index": 3 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "275 (90.8)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "49 (53.3)",
-    "location": { "row_index": 3, "column_index": 4 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "49 (53.3)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "51 (54.8)",
-    "location": { "row_index": 3, "column_index": 5 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "51 (54.8)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "50 (53.8)",
-    "location": { "row_index": 3, "column_index": 6 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "50 (53.8)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "45 (48.9)",
-    "location": { "row_index": 3, "column_index": 7 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "45 (48.9)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "43 (55.1)",
-    "location": { "row_index": 3, "column_index": 8 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "43 (55.1)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "46 (59.7)",
-    "location": { "row_index": 3, "column_index": 9 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "46 (59.7)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "48 (61.5)",
-    "location": { "row_index": 3, "column_index": 10 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "48 (61.5)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "42 (53.2)",
-    "location": { "row_index": 3, "column_index": 11 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "White",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "42 (53.2)", "confidence": "high"},
+    "location": {"value": "Row 3, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "White", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "24 (7.9)",
-    "location": { "row_index": 4, "column_index": 1 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "24 (7.9)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "30 (9.9)",
-    "location": { "row_index": 4, "column_index": 2 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "30 (9.9)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "18 (5.9)",
-    "location": { "row_index": 4, "column_index": 3 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "18 (5.9)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "9 (9.8)",
-    "location": { "row_index": 4, "column_index": 4 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "9 (9.8)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "10 (10.8)",
-    "location": { "row_index": 4, "column_index": 5 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "10 (10.8)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "8 (8.6)",
-    "location": { "row_index": 4, "column_index": 6 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "8 (8.6)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "9 (9.8)",
-    "location": { "row_index": 4, "column_index": 7 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "9 (9.8)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "10 (12.8)",
-    "location": { "row_index": 4, "column_index": 8 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "10 (12.8)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "4 (5.2)",
-    "location": { "row_index": 4, "column_index": 9 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "4 (5.2)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "7 (9.0)",
-    "location": { "row_index": 4, "column_index": 10 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "7 (9.0)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "11 (13.9)",
-    "location": { "row_index": 4, "column_index": 11 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Black or African American",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "11 (13.9)", "confidence": "high"},
+    "location": {"value": "Row 4, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Black or African American", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "5 (1.7)",
-    "location": { "row_index": 5, "column_index": 1 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "5 (1.7)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "3 (1.0)",
-    "location": { "row_index": 5, "column_index": 2 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "3 (1.0)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "6 (2.0)",
-    "location": { "row_index": 5, "column_index": 3 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "6 (2.0)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "33 (35.9)",
-    "location": { "row_index": 5, "column_index": 4 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "33 (35.9)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "30 (32.3)",
-    "location": { "row_index": 5, "column_index": 5 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "30 (32.3)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "34 (36.6)",
-    "location": { "row_index": 5, "column_index": 6 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "34 (36.6)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "36 (39.1)",
-    "location": { "row_index": 5, "column_index": 7 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "36 (39.1)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "24 (30.8)",
-    "location": { "row_index": 5, "column_index": 8 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "24 (30.8)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "26 (33.8)",
-    "location": { "row_index": 5, "column_index": 9 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "26 (33.8)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "22 (28.2)",
-    "location": { "row_index": 5, "column_index": 10 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "22 (28.2)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "24 (30.4)",
-    "location": { "row_index": 5, "column_index": 11 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Asian",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "24 (30.4)", "confidence": "high"},
+    "location": {"value": "Row 5, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Asian", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "3 (1.0)",
-    "location": { "row_index": 6, "column_index": 1 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "3 (1.0)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "6 (2.0)",
-    "location": { "row_index": 6, "column_index": 2 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "6 (2.0)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "4 (1.4)",
-    "location": { "row_index": 6, "column_index": 3 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "4 (1.4)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "1 (1.1)",
-    "location": { "row_index": 6, "column_index": 4 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "1 (1.1)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "2 (2.2)",
-    "location": { "row_index": 6, "column_index": 5 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "2 (2.2)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "1 (1.1)",
-    "location": { "row_index": 6, "column_index": 6 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "1 (1.1)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "2 (2.2)",
-    "location": { "row_index": 6, "column_index": 7 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "2 (2.2)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "1 (1.3)",
-    "location": { "row_index": 6, "column_index": 8 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "1 (1.3)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "1 (1.3)",
-    "location": { "row_index": 6, "column_index": 9 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "1 (1.3)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "1 (1.3)",
-    "location": { "row_index": 6, "column_index": 10 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "1 (1.3)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "2 (2.5)",
-    "location": { "row_index": 6, "column_index": 11 },
-    "1-level row header": "Race, _n_ (%)",
-    "2-level row header": "Other/not reported/unknown",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "2 (2.5)", "confidence": "high"},
+    "location": {"value": "Row 6, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "Race, n (%)", "confidence": "high"},
+    "2-level row header": {"value": "Other/not reported/unknown", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "8.12 ± 0.82",
-    "location": { "row_index": 7, "column_index": 1 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "8.12 ± 0.82", "confidence": "high"},
+    "location": {"value": "Row 7, Column 2", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "8.07 ± 0.78",
-    "location": { "row_index": 7, "column_index": 2 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "8.07 ± 0.78", "confidence": "high"},
+    "location": {"value": "Row 7, Column 3", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "8.11 ± 0.81",
-    "location": { "row_index": 7, "column_index": 3 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "8.11 ± 0.81", "confidence": "high"},
+    "location": {"value": "Row 7, Column 4", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "8.42 ± 0.79",
-    "location": { "row_index": 7, "column_index": 4 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "8.42 ± 0.79", "confidence": "high"},
+    "location": {"value": "Row 7, Column 5", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "8.46 ± 0.79",
-    "location": { "row_index": 7, "column_index": 5 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "8.46 ± 0.79", "confidence": "high"},
+    "location": {"value": "Row 7, Column 6", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "8.40 ± 0.72",
-    "location": { "row_index": 7, "column_index": 6 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "8.40 ± 0.72", "confidence": "high"},
+    "location": {"value": "Row 7, Column 7", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "8.54 ± 0.83",
-    "location": { "row_index": 7, "column_index": 7 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "8.54 ± 0.83", "confidence": "high"},
+    "location": {"value": "Row 7, Column 8", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "8.07 ± 0.76",
-    "location": { "row_index": 7, "column_index": 8 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "8.07 ± 0.76", "confidence": "high"},
+    "location": {"value": "Row 7, Column 9", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "8.15 ± 0.69",
-    "location": { "row_index": 7, "column_index": 9 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "8.15 ± 0.69", "confidence": "high"},
+    "location": {"value": "Row 7, Column 10", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "8.09 ± 0.79",
-    "location": { "row_index": 7, "column_index": 10 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "8.09 ± 0.79", "confidence": "high"},
+    "location": {"value": "Row 7, Column 11", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "8.09 ± 0.79",
-    "location": { "row_index": 7, "column_index": 11 },
-    "row header": "HbA1c at screening, %",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "8.09 ± 0.79", "confidence": "high"},
+    "location": {"value": "Row 7, Column 12", "confidence": "high"},
+    "row header": {"value": "HbA1c at screening, %", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "65.23 ± 8.98",
-    "location": { "row_index": 8, "column_index": 1 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "65.23 ± 8.98", "confidence": "high"},
+    "location": {"value": "Row 8, Column 2", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "64.66 ± 8.57",
-    "location": { "row_index": 8, "column_index": 2 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "64.66 ± 8.57", "confidence": "high"},
+    "location": {"value": "Row 8, Column 3", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "65.14 ± 8.87",
-    "location": { "row_index": 8, "column_index": 3 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "65.14 ± 8.87", "confidence": "high"},
+    "location": {"value": "Row 8, Column 4", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "68.48 ± 8.65",
-    "location": { "row_index": 8, "column_index": 4 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "68.48 ± 8.65", "confidence": "high"},
+    "location": {"value": "Row 8, Column 5", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "68.98 ± 8.63",
-    "location": { "row_index": 8, "column_index": 5 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "68.98 ± 8.63", "confidence": "high"},
+    "location": {"value": "Row 8, Column 6", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "68.35 ± 7.82",
-    "location": { "row_index": 8, "column_index": 6 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "68.35 ± 7.82", "confidence": "high"},
+    "location": {"value": "Row 8, Column 7", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "69.88 ± 9.11",
-    "location": { "row_index": 8, "column_index": 7 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "69.88 ± 9.11", "confidence": "high"},
+    "location": {"value": "Row 8, Column 8", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "64.68 ± 8.31",
-    "location": { "row_index": 8, "column_index": 8 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "64.68 ± 8.31", "confidence": "high"},
+    "location": {"value": "Row 8, Column 9", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "65.57 ± 7.54",
-    "location": { "row_index": 8, "column_index": 9 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "65.57 ± 7.54", "confidence": "high"},
+    "location": {"value": "Row 8, Column 10", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "64.89 ± 8.68",
-    "location": { "row_index": 8, "column_index": 10 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "64.89 ± 8.68", "confidence": "high"},
+    "location": {"value": "Row 8, Column 11", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "64.94 ± 8.61",
-    "location": { "row_index": 8, "column_index": 11 },
-    "row header": "mmol/mol",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "64.94 ± 8.61", "confidence": "high"},
+    "location": {"value": "Row 8, Column 12", "confidence": "high"},
+    "row header": {"value": "mmol/mol", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "9.38 ± 2.31",
-    "location": { "row_index": 9, "column_index": 1 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "9.38 ± 2.31", "confidence": "high"},
+    "location": {"value": "Row 9, Column 2", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "9.28 ± 2.35",
-    "location": { "row_index": 9, "column_index": 2 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "9.28 ± 2.35", "confidence": "high"},
+    "location": {"value": "Row 9, Column 3", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "9.43 ± 2.21",
-    "location": { "row_index": 9, "column_index": 3 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "9.43 ± 2.21", "confidence": "high"},
+    "location": {"value": "Row 9, Column 4", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "8.40 ± 2.91",
-    "location": { "row_index": 9, "column_index": 4 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "8.40 ± 2.91", "confidence": "high"},
+    "location": {"value": "Row 9, Column 5", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "8.08 ± 2.85",
-    "location": { "row_index": 9, "column_index": 5 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "8.08 ± 2.85", "confidence": "high"},
+    "location": {"value": "Row 9, Column 6", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "7.77 ± 2.26",
-    "location": { "row_index": 9, "column_index": 6 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "7.77 ± 2.26", "confidence": "high"},
+    "location": {"value": "Row 9, Column 7", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "8.04 ± 2.71",
-    "location": { "row_index": 9, "column_index": 7 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "8.04 ± 2.71", "confidence": "high"},
+    "location": {"value": "Row 9, Column 8", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "8.89 ± 2.38",
-    "location": { "row_index": 9, "column_index": 8 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "8.89 ± 2.38", "confidence": "high"},
+    "location": {"value": "Row 9, Column 9", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "9.06 ± 2.21",
-    "location": { "row_index": 9, "column_index": 9 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "9.06 ± 2.21", "confidence": "high"},
+    "location": {"value": "Row 9, Column 10", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "8.92 ± 2.30",
-    "location": { "row_index": 9, "column_index": 10 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "8.92 ± 2.30", "confidence": "high"},
+    "location": {"value": "Row 9, Column 11", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "8.85 ± 1.60",
-    "location": { "row_index": 9, "column_index": 11 },
-    "row header": "Mean FPG, mmol/L",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "8.85 ± 1.60", "confidence": "high"},
+    "location": {"value": "Row 9, Column 12", "confidence": "high"},
+    "row header": {"value": "Mean FPG, mmol/L", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "95.2 ± 19.9",
-    "location": { "row_index": 10, "column_index": 1 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "95.2 ± 19.9", "confidence": "high"},
+    "location": {"value": "Row 10, Column 2", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "95.2 ± 21.1",
-    "location": { "row_index": 10, "column_index": 2 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "95.2 ± 21.1", "confidence": "high"},
+    "location": {"value": "Row 10, Column 3", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "94.0 ± 20.8",
-    "location": { "row_index": 10, "column_index": 3 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "94.0 ± 20.8", "confidence": "high"},
+    "location": {"value": "Row 10, Column 4", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "87.1 ± 21.7",
-    "location": { "row_index": 10, "column_index": 4 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "87.1 ± 21.7", "confidence": "high"},
+    "location": {"value": "Row 10, Column 5", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "83.4 ± 22.1",
-    "location": { "row_index": 10, "column_index": 5 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "83.4 ± 22.1", "confidence": "high"},
+    "location": {"value": "Row 10, Column 6", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "87.7 ± 23.7",
-    "location": { "row_index": 10, "column_index": 6 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "87.7 ± 23.7", "confidence": "high"},
+    "location": {"value": "Row 10, Column 7", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "82.4 ± 21.0",
-    "location": { "row_index": 10, "column_index": 7 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "82.4 ± 21.0", "confidence": "high"},
+    "location": {"value": "Row 10, Column 8", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "90.1 ± 24.7",
-    "location": { "row_index": 10, "column_index": 8 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "90.1 ± 24.7", "confidence": "high"},
+    "location": {"value": "Row 10, Column 9", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "90.2 ± 23.6",
-    "location": { "row_index": 10, "column_index": 9 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "90.2 ± 23.6", "confidence": "high"},
+    "location": {"value": "Row 10, Column 10", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "90.9 ± 21.7",
-    "location": { "row_index": 10, "column_index": 10 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "90.9 ± 21.7", "confidence": "high"},
+    "location": {"value": "Row 10, Column 11", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "89.5 ± 23.5",
-    "location": { "row_index": 10, "column_index": 11 },
-    "row header": "Mean body weight, kg",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "89.5 ± 23.5", "confidence": "high"},
+    "location": {"value": "Row 10, Column 12", "confidence": "high"},
+    "row header": {"value": "Mean body weight, kg", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "33.4 ± 6.1",
-    "location": { "row_index": 11, "column_index": 1 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "33.4 ± 6.1", "confidence": "high"},
+    "location": {"value": "Row 11, Column 2", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "33.4 ± 6.2",
-    "location": { "row_index": 11, "column_index": 2 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "33.4 ± 6.2", "confidence": "high"},
+    "location": {"value": "Row 11, Column 3", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "33.4 ± 6.4",
-    "location": { "row_index": 11, "column_index": 3 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "33.4 ± 6.4", "confidence": "high"},
+    "location": {"value": "Row 11, Column 4", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "31.1 ± 6.1",
-    "location": { "row_index": 11, "column_index": 4 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "31.1 ± 6.1", "confidence": "high"},
+    "location": {"value": "Row 11, Column 5", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "30.0 ± 6.6",
-    "location": { "row_index": 11, "column_index": 5 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "30.0 ± 6.6", "confidence": "high"},
+    "location": {"value": "Row 11, Column 6", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "31.0 ± 7.1",
-    "location": { "row_index": 11, "column_index": 6 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "31.0 ± 7.1", "confidence": "high"},
+    "location": {"value": "Row 11, Column 7", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "30.1 ± 5.6",
-    "location": { "row_index": 11, "column_index": 7 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "30.1 ± 5.6", "confidence": "high"},
+    "location": {"value": "Row 11, Column 8", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "31.8 ± 7.7",
-    "location": { "row_index": 11, "column_index": 8 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "31.8 ± 7.7", "confidence": "high"},
+    "location": {"value": "Row 11, Column 9", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "32.0 ± 6.3",
-    "location": { "row_index": 11, "column_index": 9 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "32.0 ± 6.3", "confidence": "high"},
+    "location": {"value": "Row 11, Column 10", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "32.4 ± 7.4",
-    "location": { "row_index": 11, "column_index": 10 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "32.4 ± 7.4", "confidence": "high"},
+    "location": {"value": "Row 11, Column 11", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "32.2 ± 7.1",
-    "location": { "row_index": 11, "column_index": 11 },
-    "row header": "Mean BMI, kg/m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "32.2 ± 7.1", "confidence": "high"},
+    "location": {"value": "Row 11, Column 12", "confidence": "high"},
+    "row header": {"value": "Mean BMI, kg/m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "99 (32.7)",
-    "location": { "row_index": 12, "column_index": 1 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "99 (32.7)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "101 (33.4)",
-    "location": { "row_index": 12, "column_index": 2 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "101 (33.4)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "101 (33.3)",
-    "location": { "row_index": 12, "column_index": 3 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "101 (33.3)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "46 (50.0)",
-    "location": { "row_index": 12, "column_index": 4 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "46 (50.0)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "50 (53.8)",
-    "location": { "row_index": 12, "column_index": 5 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "50 (53.8)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "48 (51.6)",
-    "location": { "row_index": 12, "column_index": 6 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "48 (51.6)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "53 (58.2)",
-    "location": { "row_index": 12, "column_index": 7 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "53 (58.2)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "35 (44.9)",
-    "location": { "row_index": 12, "column_index": 8 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "35 (44.9)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "32 (41.6)",
-    "location": { "row_index": 12, "column_index": 9 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "32 (41.6)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "36 (46.2)",
-    "location": { "row_index": 12, "column_index": 10 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "36 (46.2)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "32 (40.5)",
-    "location": { "row_index": 12, "column_index": 11 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "< 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "32 (40.5)", "confidence": "high"},
+    "location": {"value": "Row 12, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "< 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "161 (53.1)",
-    "location": { "row_index": 13, "column_index": 1 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "161 (53.1)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "157 (52.0)",
-    "location": { "row_index": 13, "column_index": 2 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "157 (52.0)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "155 (51.2)",
-    "location": { "row_index": 13, "column_index": 3 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "155 (51.2)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "37 (40.2)",
-    "location": { "row_index": 13, "column_index": 4 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "37 (40.2)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "36 (38.7)",
-    "location": { "row_index": 13, "column_index": 5 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "36 (38.7)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "34 (36.6)",
-    "location": { "row_index": 13, "column_index": 6 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "34 (36.6)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "32 (35.2)",
-    "location": { "row_index": 13, "column_index": 7 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "32 (35.2)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "33 (42.3)",
-    "location": { "row_index": 13, "column_index": 8 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "33 (42.3)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "37 (48.1)",
-    "location": { "row_index": 13, "column_index": 9 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "37 (48.1)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "29 (37.2)",
-    "location": { "row_index": 13, "column_index": 10 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "29 (37.2)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "36 (45.6)",
-    "location": { "row_index": 13, "column_index": 11 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 30 to < 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "36 (45.6)", "confidence": "high"},
+    "location": {"value": "Row 13, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 to < 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "43 (14.2)",
-    "location": { "row_index": 14, "column_index": 1 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "43 (14.2)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "44 (14.6)",
-    "location": { "row_index": 14, "column_index": 2 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "44 (14.6)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "47 (15.5)",
-    "location": { "row_index": 14, "column_index": 3 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "47 (15.5)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "9 (9.8)",
-    "location": { "row_index": 14, "column_index": 4 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "9 (9.8)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "7 (7.5)",
-    "location": { "row_index": 14, "column_index": 5 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "7 (7.5)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "11 (11.8)",
-    "location": { "row_index": 14, "column_index": 6 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "11 (11.8)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "6 (6.6)",
-    "location": { "row_index": 14, "column_index": 7 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "6 (6.6)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "10 (12.8)",
-    "location": { "row_index": 14, "column_index": 8 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "10 (12.8)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "8 (10.4)",
-    "location": { "row_index": 14, "column_index": 9 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "8 (10.4)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "13 (16.7)",
-    "location": { "row_index": 14, "column_index": 10 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "13 (16.7)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "11 (13.9)",
-    "location": { "row_index": 14, "column_index": 11 },
-    "1-level row header": "BMI (kg/m2), _n_ (%)",
-    "2-level row header": "≥ 40",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "11 (13.9)", "confidence": "high"},
+    "location": {"value": "Row 14, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "BMI (kg/m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 40", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "8.60 ± 6.36",
-    "location": { "row_index": 15, "column_index": 1 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "8.60 ± 6.36", "confidence": "high"},
+    "location": {"value": "Row 15, Column 2", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "8.84 ± 6.57",
-    "location": { "row_index": 15, "column_index": 2 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "8.84 ± 6.57", "confidence": "high"},
+    "location": {"value": "Row 15, Column 3", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "8.65 ± 6.98",
-    "location": { "row_index": 15, "column_index": 3 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "8.65 ± 6.98", "confidence": "high"},
+    "location": {"value": "Row 15, Column 4", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "15.4 ± 8.3",
-    "location": { "row_index": 15, "column_index": 4 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "15.4 ± 8.3", "confidence": "high"},
+    "location": {"value": "Row 15, Column 5", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "16.2 ± 7.3",
-    "location": { "row_index": 15, "column_index": 5 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "16.2 ± 7.3", "confidence": "high"},
+    "location": {"value": "Row 15, Column 6", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "16.3 ± 8.8",
-    "location": { "row_index": 15, "column_index": 6 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "16.3 ± 8.8", "confidence": "high"},
+    "location": {"value": "Row 15, Column 7", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "15.2 ± 7.0",
-    "location": { "row_index": 15, "column_index": 7 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "15.2 ± 7.0", "confidence": "high"},
+    "location": {"value": "Row 15, Column 8", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "10.55 ± 6.88",
-    "location": { "row_index": 15, "column_index": 8 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "10.55 ± 6.88", "confidence": "high"},
+    "location": {"value": "Row 15, Column 9", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "10.39 ± 7.45",
-    "location": { "row_index": 15, "column_index": 9 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "10.39 ± 7.45", "confidence": "high"},
+    "location": {"value": "Row 15, Column 10", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "11.52 ± 8.14",
-    "location": { "row_index": 15, "column_index": 10 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "11.52 ± 8.14", "confidence": "high"},
+    "location": {"value": "Row 15, Column 11", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "9.53 ± 6.22",
-    "location": { "row_index": 15, "column_index": 11 },
-    "row header": "Duration of diabetes, y",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "9.53 ± 6.22", "confidence": "high"},
+    "location": {"value": "Row 15, Column 12", "confidence": "high"},
+    "row header": {"value": "Duration of diabetes, y", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "99.7 ± 28.0",
-    "location": { "row_index": 16, "column_index": 1 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "99.7 ± 28.0", "confidence": "high"},
+    "location": {"value": "Row 16, Column 2", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "103.4 ± 31.1",
-    "location": { "row_index": 16, "column_index": 2 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "103.4 ± 31.1", "confidence": "high"},
+    "location": {"value": "Row 16, Column 3", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "101.0 ± 29.5",
-    "location": { "row_index": 16, "column_index": 3 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "101.0 ± 29.5", "confidence": "high"},
+    "location": {"value": "Row 16, Column 4", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "103.9 ± 31.6",
-    "location": { "row_index": 16, "column_index": 4 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "103.9 ± 31.6", "confidence": "high"},
+    "location": {"value": "Row 16, Column 5", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "102.0 ± 33.8",
-    "location": { "row_index": 16, "column_index": 5 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "102.0 ± 33.8", "confidence": "high"},
+    "location": {"value": "Row 16, Column 6", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "103.7 ± 34.7",
-    "location": { "row_index": 16, "column_index": 6 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "103.7 ± 34.7", "confidence": "high"},
+    "location": {"value": "Row 16, Column 7", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "111.8 ± 43.2",
-    "location": { "row_index": 16, "column_index": 7 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "111.8 ± 43.2", "confidence": "high"},
+    "location": {"value": "Row 16, Column 8", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "101.4 ± 29.3",
-    "location": { "row_index": 16, "column_index": 8 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "101.4 ± 29.3", "confidence": "high"},
+    "location": {"value": "Row 16, Column 9", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "108.7 ± 30.2",
-    "location": { "row_index": 16, "column_index": 9 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "108.7 ± 30.2", "confidence": "high"},
+    "location": {"value": "Row 16, Column 10", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "109.8 ± 34.2",
-    "location": { "row_index": 16, "column_index": 10 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "109.8 ± 34.2", "confidence": "high"},
+    "location": {"value": "Row 16, Column 11", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "107.8 ± 31.6",
-    "location": { "row_index": 16, "column_index": 11 },
-    "row header": "Mean eGFR, mL/min/1.73m2",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "107.8 ± 31.6", "confidence": "high"},
+    "location": {"value": "Row 16, Column 12", "confidence": "high"},
+    "row header": {"value": "Mean eGFR, mL/min/1.73m2", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "186 (61.4)",
-    "location": { "row_index": 17, "column_index": 1 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "186 (61.4)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "201 (66.6)",
-    "location": { "row_index": 17, "column_index": 2 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "201 (66.6)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "188 (62.0)",
-    "location": { "row_index": 17, "column_index": 3 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "188 (62.0)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "64 (69.6)",
-    "location": { "row_index": 17, "column_index": 4 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "64 (69.6)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "59 (63.4)",
-    "location": { "row_index": 17, "column_index": 5 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "59 (63.4)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "59 (63.4)",
-    "location": { "row_index": 17, "column_index": 6 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "59 (63.4)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "68 (73.9)",
-    "location": { "row_index": 17, "column_index": 7 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "68 (73.9)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "51 (65.4)",
-    "location": { "row_index": 17, "column_index": 8 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "51 (65.4)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "58 (75.3)",
-    "location": { "row_index": 17, "column_index": 9 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "58 (75.3)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "55 (70.5)",
-    "location": { "row_index": 17, "column_index": 10 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "55 (70.5)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "58 (73.4)",
-    "location": { "row_index": 17, "column_index": 11 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "58 (73.4)", "confidence": "high"},
+    "location": {"value": "Row 17, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "97 (32.0)",
-    "location": { "row_index": 18, "column_index": 1 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "97 (32.0)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "89 (29.5)",
-    "location": { "row_index": 18, "column_index": 2 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "89 (29.5)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "106 (35.0)",
-    "location": { "row_index": 18, "column_index": 3 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "106 (35.0)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "23 (25.0)",
-    "location": { "row_index": 18, "column_index": 4 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "23 (25.0)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "26 (28.0)",
-    "location": { "row_index": 18, "column_index": 5 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "26 (28.0)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "28 (30.1)",
-    "location": { "row_index": 18, "column_index": 6 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "28 (30.1)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "16 (17.4)",
-    "location": { "row_index": 18, "column_index": 7 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "16 (17.4)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "19 (24.4)",
-    "location": { "row_index": 18, "column_index": 8 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "19 (24.4)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "15 (19.5)",
-    "location": { "row_index": 18, "column_index": 9 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "15 (19.5)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "18 (23.1)",
-    "location": { "row_index": 18, "column_index": 10 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "18 (23.1)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "16 (20.3)",
-    "location": { "row_index": 18, "column_index": 11 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 60 and < 90",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "16 (20.3)", "confidence": "high"},
+    "location": {"value": "Row 18, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 60 and < 90", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "20 (6.6)",
-    "location": { "row_index": 19, "column_index": 1 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "20 (6.6)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "12 (4.0)",
-    "location": { "row_index": 19, "column_index": 2 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "12 (4.0)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "8 (2.6)",
-    "location": { "row_index": 19, "column_index": 3 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "8 (2.6)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "5 (5.4)",
-    "location": { "row_index": 19, "column_index": 4 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "5 (5.4)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "7 (7.5)",
-    "location": { "row_index": 19, "column_index": 5 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "7 (7.5)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "6 (6.5)",
-    "location": { "row_index": 19, "column_index": 6 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "6 (6.5)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "8 (8.7)",
-    "location": { "row_index": 19, "column_index": 7 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "8 (8.7)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "8 (10.3)",
-    "location": { "row_index": 19, "column_index": 8 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "8 (10.3)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "4 (5.2)",
-    "location": { "row_index": 19, "column_index": 9 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "4 (5.2)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "5 (6.4)",
-    "location": { "row_index": 19, "column_index": 10 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "5 (6.4)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "5 (6.3)",
-    "location": { "row_index": 19, "column_index": 11 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 30 and < 60",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "5 (6.3)", "confidence": "high"},
+    "location": {"value": "Row 19, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 30 and < 60", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 1 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 2", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 2 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 3", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "1 (0.3)",
-    "location": { "row_index": 20, "column_index": 3 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "high"
+    "data cell": {"value": "1 (0.3)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 4", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 4 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 5", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "1 (1.1)",
-    "location": { "row_index": 20, "column_index": 5 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "1 (1.1)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 6", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 6 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 7", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 7 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 8", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 8 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 9", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 9 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 10", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 10 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 11", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "0 (0.0)",
-    "location": { "row_index": 20, "column_index": 11 },
-    "1-level row header": "eGFR (mL/min/1.73m2), _n_ (%)",
-    "2-level row header": "≥ 15 and < 30",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "0 (0.0)", "confidence": "high"},
+    "location": {"value": "Row 20, Column 12", "confidence": "high"},
+    "1-level row header": {"value": "eGFR (mL/min/1.73m2), n (%)", "confidence": "high"},
+    "2-level row header": {"value": "≥ 15 and < 30", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   },
 
   {
-    "value": "–",
-    "location": { "row_index": 21, "column_index": 1 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 303)",
-    "confidence": "medium"
+    "data cell": {"value": "–", "confidence": "high"},
+    "location": {"value": "Row 21, Column 2", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "–",
-    "location": { "row_index": 21, "column_index": 2 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 302)",
-    "confidence": "medium"
+    "data cell": {"value": "–", "confidence": "high"},
+    "location": {"value": "Row 21, Column 3", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=302)", "confidence": "high"}
   },
   {
-    "value": "–",
-    "location": { "row_index": 21, "column_index": 3 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-D",
-    "2-level column header": "Dulaglutide 1.5 mg (_N_ = 303)",
-    "confidence": "medium"
+    "data cell": {"value": "–", "confidence": "high"},
+    "location": {"value": "Row 21, Column 4", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-D", "confidence": "high"},
+    "2-level column header": {"value": "Dulaglutide 1.5 mg (N=303)", "confidence": "high"}
   },
   {
-    "value": "40 (43.5)",
-    "location": { "row_index": 21, "column_index": 4 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "40 (43.5)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 5", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=92)", "confidence": "high"}
   },
   {
-    "value": "40 (43.0)",
-    "location": { "row_index": 21, "column_index": 5 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "40 (43.0)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 6", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "39 (41.9)",
-    "location": { "row_index": 21, "column_index": 6 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 93)",
-    "confidence": "high"
+    "data cell": {"value": "39 (41.9)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 7", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=93)", "confidence": "high"}
   },
   {
-    "value": "39 (42.4)",
-    "location": { "row_index": 21, "column_index": 7 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-L",
-    "2-level column header": "Placebo (_N_ = 92)",
-    "confidence": "high"
+    "data cell": {"value": "39 (42.4)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 8", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-L", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=92)", "confidence": "high"}
   },
   {
-    "value": "39 (50.0)",
-    "location": { "row_index": 21, "column_index": 8 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 2 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "39 (50.0)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 9", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 2 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "39 (50.6)",
-    "location": { "row_index": 21, "column_index": 9 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 4 mg (_N_ = 77)",
-    "confidence": "high"
+    "data cell": {"value": "39 (50.6)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 10", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 4 mg (N=77)", "confidence": "high"}
   },
   {
-    "value": "39 (50.0)",
-    "location": { "row_index": 21, "column_index": 10 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Efpeglenatide 6 mg (_N_ = 78)",
-    "confidence": "high"
+    "data cell": {"value": "39 (50.0)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 11", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Efpeglenatide 6 mg (N=78)", "confidence": "high"}
   },
   {
-    "value": "39 (49.4)",
-    "location": { "row_index": 21, "column_index": 11 },
-    "row header": "SU use at screening, _n_ (%)",
-    "1-level column header": "AMPLITUDE\\-S",
-    "2-level column header": "Placebo (_N_ = 79)",
-    "confidence": "high"
+    "data cell": {"value": "39 (49.4)", "confidence": "high"},
+    "location": {"value": "Row 21, Column 12", "confidence": "high"},
+    "row header": {"value": "SU use at screening, n (%)", "confidence": "high"},
+    "1-level column header": {"value": "AMPLITUDE-S", "confidence": "high"},
+    "2-level column header": {"value": "Placebo (N=79)", "confidence": "high"}
   }
-]
