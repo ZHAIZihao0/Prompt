@@ -1,107 +1,71 @@
 [
   {
-    "row": 3,
-    "column": 2,
-    "row_header": "No. of participants",
-    "column_header": "Placebo",
-    "value": "20"
-  },
-  {
-    "row": 3,
-    "column": 3,
-    "row_header": "No. of participants",
-    "column_header": "Semaglutide",
-    "value": "20"
-  },
-  {
-    "row": 3,
-    "column": 4,
-    "row_header": "No. of participants",
-    "column_header": "Empagliflozin",
-    "value": "20"
-  },
-  {
-    "row": 3,
-    "column": 5,
-    "row_header": "No. of participants",
-    "column_header": "Combination",
-    "value": "20"
-  },
-  {
-    "row": 3,
-    "column": 6,
-    "row_header": "No. of participants",
-    "column_header": "p value",
-    "value": "–"
-  },
-  {
-    "row": 4,
-    "column": 2,
-    "row_header": "Age, years",
-    "column_header": "Placebo",
-    "value": "64.6 ± 6.1"
-  },
-  {
-    "row": 4,
-    "column": 3,
-    "row_header": "Age, years",
-    "column_header": "Semaglutide",
-    "value": "70.1 ± 6.8"
-  },
-  {
-    "row": 4,
-    "column": 4,
-    "row_header": "Age, years",
-    "column_header": "Empagliflozin",
-    "value": "69.6 ± 6.0"
-  },
-  {
-    "row": 4,
-    "column": 5,
-    "row_header": "Age, years",
-    "column_header": "Combination",
-    "value": "67.9 ± 6.2"
-  },
-  {
-    "row": 4,
-    "column": 6,
-    "row_header": "Age, years",
-    "column_header": "p value",
-    "value": "0.03"
-  },
-  {
-    "row": 5,
-    "column": 2,
-    "row_header": "Male sex",
-    "column_header": "Placebo",
-    "value": "14 (70)"
-  },
-  {
-    "row": 5,
-    "column": 3,
-    "row_header": "Male sex",
-    "column_header": "Semaglutide",
-    "value": "17 (85)"
-  },
-  {
-    "row": 5,
-    "column": 4,
-    "row_header": "Male sex",
-    "column_header": "Empagliflozin",
-    "value": "13 (65)"
-  },
-  {
-    "row": 5,
-    "column": 5,
-    "row_header": "Male sex",
-    "column_header": "Combination",
-    "value": "17 (85)"
-  },
-  {
-    "row": 5,
-    "column": 6,
-    "row_header": "Male sex",
-    "column_header": "p value",
-    "value": "0.32"
+    "table_title": "Table 1 Baseline characteristics by treatment group",
+    "data_cells": [
+      {
+        "row_index": 3,
+        "column_index": 2,
+        "cell_value": "20",
+        "1-level_row_header": "Clinical",
+        "2-level_row_header": "No. of participants",
+        "column_header": "Placebo"
+      },
+      {
+        "row_index": 3,
+        "column_index": 3,
+        "cell_value": "20",
+        "1-level_row_header": "Clinical",
+        "2-level_row_header": "No. of participants",
+        "column_header": "Semaglutide"
+      },
+      {
+        "row_index": 3,
+        "column_index": 6,
+        "cell_value": "–",
+        "1-level_row_header": "Clinical",
+        "2-level_row_header": "No. of participants",
+        "column_header": "p value"
+      },
+      {
+        "row_index": 4,
+        "column_index": 2,
+        "cell_value": "64.6 ± 6.1",
+        "1-level_row_header": "Clinical",
+        "2-level_row_header": "Age, years",
+        "column_header": "Placebo"
+      },
+      {
+        "row_index": 4,
+        "column_index": 6,
+        "cell_value": "0.03",
+        "1-level_row_header": "Clinical",
+        "2-level_row_header": "Age, years",
+        "column_header": "p value"
+      },
+      {
+        "row_index": 15,
+        "column_index": 2,
+        "cell_value": "60 (51–67)",
+        "1-level_row_header": "Biochemistry",
+        "2-level_row_header": "HbA1c, mmol/mol",
+        "column_header": "Placebo"
+      },
+      {
+        "row_index": 25,
+        "column_index": 3,
+        "cell_value": "87 ± 21",
+        "1-level_row_header": "Biochemistry",
+        "2-level_row_header": "GFR, ml/min per 1.73 m2",
+        "column_header": "Semaglutide"
+      },
+      {
+        "row_index": 30,
+        "column_index": 5,
+        "cell_value": "20 (100)",
+        "1-level_row_header": "Medication",
+        "2-level_row_header": "Statin",
+        "column_header": "Combination"
+      }
+    ]
   }
 ]

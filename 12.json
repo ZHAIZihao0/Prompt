@@ -1,212 +1,212 @@
 [
   {
-    "row": 1,
-    "column": 2,
-    "row_header": "Male, n (%)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "62 (52.5%)"
+    "cell_location": {"row": 1, "column": 2},
+    "data_cell": "62 (52.5%)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Male, n (%)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 1,
-    "column": 3,
-    "row_header": "Male, n (%)",
-    "column_header": "MS (N = 118)",
-    "value": "63 (53.4%)"
+    "cell_location": {"row": 1, "column": 3},
+    "data_cell": "63 (53.4%)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Male, n (%)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 1,
-    "column": 4,
-    "row_header": "Male, n (%)",
-    "column_header": "P value",
-    "value": "0.43"
+    "cell_location": {"row": 1, "column": 4},
+    "data_cell": "0.43",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Male, n (%)",
+    "column_header": "P value"
   },
   {
-    "row": 2,
-    "column": 2,
-    "row_header": "Female, n (%)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "56 (47.5%)"
+    "cell_location": {"row": 2, "column": 2},
+    "data_cell": "56 (47.5%)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Female, n (%)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 2,
-    "column": 3,
-    "row_header": "Female, n (%)",
-    "column_header": "MS (N = 118)",
-    "value": "55 (46.6%)"
+    "cell_location": {"row": 2, "column": 3},
+    "data_cell": "55 (46.6%)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Female, n (%)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 2,
-    "column": 4,
-    "row_header": "Female, n (%)",
-    "column_header": "P value",
-    "value": "0.37"
+    "cell_location": {"row": 2, "column": 4},
+    "data_cell": "0.37",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Female, n (%)",
+    "column_header": "P value"
   },
   {
-    "row": 3,
-    "column": 2,
-    "row_header": "Age, years, mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "51.7 (8.01)"
+    "cell_location": {"row": 3, "column": 2},
+    "data_cell": "51.7 (8.01)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Age, years, mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 3,
-    "column": 3,
-    "row_header": "Age, years, mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "49.6 (9.54)"
+    "cell_location": {"row": 3, "column": 3},
+    "data_cell": "49.6 (9.54)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Age, years, mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 3,
-    "column": 4,
-    "row_header": "Age, years, mean (SD)",
-    "column_header": "P value",
-    "value": "0.0787"
+    "cell_location": {"row": 3, "column": 4},
+    "data_cell": "0.0787",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Age, years, mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 4,
-    "column": 2,
-    "row_header": "Weight, kg, mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "67.1 (12.87)"
+    "cell_location": {"row": 4, "column": 2},
+    "data_cell": "67.1 (12.87)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Weight, kg, mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 4,
-    "column": 3,
-    "row_header": "Weight, kg, mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "65.5 (10.94)"
+    "cell_location": {"row": 4, "column": 3},
+    "data_cell": "65.5 (10.94)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Weight, kg, mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 4,
-    "column": 4,
-    "row_header": "Weight, kg, mean (SD)",
-    "column_header": "P value",
-    "value": "0.3074"
+    "cell_location": {"row": 4, "column": 4},
+    "data_cell": "0.3074",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Weight, kg, mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 5,
-    "column": 2,
-    "row_header": "Height, cm, mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "162.8 (8.23)"
+    "cell_location": {"row": 5, "column": 2},
+    "data_cell": "162.8 (8.23)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Height, cm, mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 5,
-    "column": 3,
-    "row_header": "Height, cm, mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "161.5 (7.79)"
+    "cell_location": {"row": 5, "column": 3},
+    "data_cell": "161.5 (7.79)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Height, cm, mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 5,
-    "column": 4,
-    "row_header": "Height, cm, mean (SD)",
-    "column_header": "P value",
-    "value": "0.2081"
+    "cell_location": {"row": 5, "column": 4},
+    "data_cell": "0.2081",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Height, cm, mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 6,
-    "column": 2,
-    "row_header": "BMI, kg/m², mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "25.2 (3.81)"
+    "cell_location": {"row": 6, "column": 2},
+    "data_cell": "25.2 (3.81)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "BMI, kg/m², mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 6,
-    "column": 3,
-    "row_header": "BMI, kg/m², mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "25.1 (3.55)"
+    "cell_location": {"row": 6, "column": 3},
+    "data_cell": "25.1 (3.55)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "BMI, kg/m², mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 6,
-    "column": 4,
-    "row_header": "BMI, kg/m², mean (SD)",
-    "column_header": "P value",
-    "value": "0.772"
+    "cell_location": {"row": 6, "column": 4},
+    "data_cell": "0.772",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "BMI, kg/m², mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 7,
-    "column": 2,
-    "row_header": "Waist circumference, inches, mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "36.8 (3.62)"
+    "cell_location": {"row": 7, "column": 2},
+    "data_cell": "36.8 (3.62)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Waist circumference, inches, mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 7,
-    "column": 3,
-    "row_header": "Waist circumference, inches, mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "36.2 (3.68)"
+    "cell_location": {"row": 7, "column": 3},
+    "data_cell": "36.2 (3.68)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Waist circumference, inches, mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 7,
-    "column": 4,
-    "row_header": "Waist circumference, inches, mean (SD)",
-    "column_header": "P value",
-    "value": "0.2106"
+    "cell_location": {"row": 7, "column": 4},
+    "data_cell": "0.2106",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Waist circumference, inches, mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 8,
-    "column": 2,
-    "row_header": "Waist-to-hip ratio, mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "0.9 (0.07)"
+    "cell_location": {"row": 8, "column": 2},
+    "data_cell": "0.9 (0.07)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Waist-to-hip ratio, mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 8,
-    "column": 3,
-    "row_header": "Waist-to-hip ratio, mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "0.9 (0.10)"
+    "cell_location": {"row": 8, "column": 3},
+    "data_cell": "0.9 (0.10)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Waist-to-hip ratio, mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 8,
-    "column": 4,
-    "row_header": "Waist-to-hip ratio, mean (SD)",
-    "column_header": "P value",
-    "value": "0.3733"
+    "cell_location": {"row": 8, "column": 4},
+    "data_cell": "0.3733",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Waist-to-hip ratio, mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 9,
-    "column": 2,
-    "row_header": "HbA1C, %, mean (SD)",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "9.21 (0.78)"
+    "cell_location": {"row": 9, "column": 2},
+    "data_cell": "9.21 (0.78)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "HbA1C, %, mean (SD)",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 9,
-    "column": 3,
-    "row_header": "HbA1C, %, mean (SD)",
-    "column_header": "MS (N = 118)",
-    "value": "9.25 (0.78)"
+    "cell_location": {"row": 9, "column": 3},
+    "data_cell": "9.25 (0.78)",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "HbA1C, %, mean (SD)",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 9,
-    "column": 4,
-    "row_header": "HbA1C, %, mean (SD)",
-    "column_header": "P value",
-    "value": "0.7181"
+    "cell_location": {"row": 9, "column": 4},
+    "data_cell": "0.7181",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "HbA1C, %, mean (SD)",
+    "column_header": "P value"
   },
   {
-    "row": 10,
-    "column": 2,
-    "row_header": "Duration of diabetes, months, mean (SD), range",
-    "column_header": "FDC of MSP (N = 118)",
-    "value": "41.1 (33.47), 2–169.4"
+    "cell_location": {"row": 10, "column": 2},
+    "data_cell": "41.1 (33.47), 2–169.4",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Duration of diabetes, months, mean (SD), range",
+    "column_header": "FDC of MSP (N = 118)"
   },
   {
-    "row": 10,
-    "column": 3,
-    "row_header": "Duration of diabetes, months, mean (SD), range",
-    "column_header": "MS (N = 118)",
-    "value": "36.5 (42.86), 1.5–360.6"
+    "cell_location": {"row": 10, "column": 3},
+    "data_cell": "36.5 (42.86), 1.5–360.6",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Duration of diabetes, months, mean (SD), range",
+    "column_header": "MS (N = 118)"
   },
   {
-    "row": 10,
-    "column": 4,
-    "row_header": "Duration of diabetes, months, mean (SD), range",
-    "column_header": "P value",
-    "value": "0.3524"
+    "cell_location": {"row": 10, "column": 4},
+    "data_cell": "0.3524",
+    "1-level_row_header": "Demographics and baseline characteristics",
+    "2-level_row_header": "Duration of diabetes, months, mean (SD), range",
+    "column_header": "P value"
   }
 ]
