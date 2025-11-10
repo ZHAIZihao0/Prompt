@@ -5,16 +5,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 2, Column 2",
+      "value": "Row 1, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Male, n (%)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Male, n (%)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -23,16 +27,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 2, Column 3",
+      "value": "Row 1, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Male, n (%)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Male, n (%)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -41,16 +49,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 2, Column 4",
+      "value": "Row 1, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Male, n (%)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Male, n (%)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -59,16 +71,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 3, Column 2",
+      "value": "Row 2, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Female, n (%)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Female, n (%)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -77,16 +93,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 3, Column 3",
+      "value": "Row 2, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Female, n (%)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Female, n (%)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -95,16 +115,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 3, Column 4",
+      "value": "Row 2, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Female, n (%)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Female, n (%)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -113,16 +137,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 4, Column 2",
+      "value": "Row 3, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Age, years, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -131,16 +159,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 4, Column 3",
+      "value": "Row 3, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Age, years, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -149,16 +181,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 4, Column 4",
+      "value": "Row 3, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Age, years, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -167,16 +203,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 5, Column 2",
+      "value": "Row 4, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Weight, kg, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Weight, kg, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -185,16 +225,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 5, Column 3",
+      "value": "Row 4, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Weight, kg, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Weight, kg, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -203,16 +247,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 5, Column 4",
+      "value": "Row 4, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Weight, kg, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Weight, kg, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -221,16 +269,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 6, Column 2",
+      "value": "Row 5, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Height, cm, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Height, cm, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -239,16 +291,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 6, Column 3",
+      "value": "Row 5, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Height, cm, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Height, cm, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -257,16 +313,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 6, Column 4",
+      "value": "Row 5, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Height, cm, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Height, cm, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -275,16 +335,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 7, Column 2",
+      "value": "Row 6, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "BMI, kg/m2, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -293,16 +357,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 7, Column 3",
+      "value": "Row 6, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "BMI, kg/m2, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -311,16 +379,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 7, Column 4",
+      "value": "Row 6, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "BMI, kg/m2, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -329,16 +401,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 8, Column 2",
+      "value": "Row 7, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Waist circumference, inches, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Waist circumference, inches, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -347,16 +423,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 8, Column 3",
+      "value": "Row 7, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Waist circumference, inches, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Waist circumference, inches, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -365,16 +445,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 8, Column 4",
+      "value": "Row 7, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Waist circumference, inches, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Waist circumference, inches, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -383,16 +467,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 9, Column 2",
+      "value": "Row 8, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Waist-to-hip ratio, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Waist-to-hip ratio, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -401,16 +489,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 9, Column 3",
+      "value": "Row 8, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Waist-to-hip ratio, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Waist-to-hip ratio, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -419,16 +511,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 9, Column 4",
+      "value": "Row 8, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Waist-to-hip ratio, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Waist-to-hip ratio, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -437,16 +533,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 10, Column 2",
+      "value": "Row 9, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1C, %, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "HbA1C, %, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -455,16 +555,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 10, Column 3",
+      "value": "Row 9, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1C, %, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "HbA1C, %, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -473,16 +577,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 10, Column 4",
+      "value": "Row 9, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1C, %, mean (SD)",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "HbA1C, %, mean (SD)",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -491,16 +599,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 11, Column 2",
+      "value": "Row 10, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, months, mean (SD), range",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Duration of diabetes, months, mean (SD), range",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "FDC of MSP (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "FDC of MSP (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -509,16 +621,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 11, Column 3",
+      "value": "Row 10, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, months, mean (SD), range",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Duration of diabetes, months, mean (SD), range",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "MS (N= 118)",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "MS (N= 118)",
+        "confidence": "high"
+      }
     }
   },
   {
@@ -527,16 +643,20 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 11, Column 4",
+      "value": "Row 10, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, months, mean (SD), range",
-      "confidence": "high"
+      "row header level-1": {
+        "value": "Duration of diabetes, months, mean (SD), range",
+        "confidence": "high"
+      }
     },
     "column header": {
-      "value": "Pvalue",
-      "confidence": "high"
+      "column header level-1": {
+        "value": "Pvalue",
+        "confidence": "high"
+      }
     }
   }
 ]

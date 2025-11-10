@@ -105,32 +105,6 @@
   },
   {
     "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 3, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "No. of participants",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
       "value": "64.6 ± 6.1",
       "confidence": "high"
     },
@@ -651,7 +625,7 @@
   },
   {
     "data cell": {
-      "value": "139 ± 13a",
+      "value": "139 ± 13 a",
       "confidence": "high"
     },
     "location": {
@@ -677,7 +651,7 @@
   },
   {
     "data cell": {
-      "value": "131 ± 17b",
+      "value": "131 ± 17 b",
       "confidence": "high"
     },
     "location": {
@@ -703,7 +677,7 @@
   },
   {
     "data cell": {
-      "value": "139 ± 15a",
+      "value": "139 ± 15 a",
       "confidence": "high"
     },
     "location": {
@@ -781,7 +755,7 @@
   },
   {
     "data cell": {
-      "value": "78 ± 10a",
+      "value": "78 ± 10 a",
       "confidence": "high"
     },
     "location": {
@@ -807,7 +781,7 @@
   },
   {
     "data cell": {
-      "value": "73 ± 8b",
+      "value": "73 ± 8 b",
       "confidence": "high"
     },
     "location": {
@@ -833,7 +807,7 @@
   },
   {
     "data cell": {
-      "value": "77 ± 6a",
+      "value": "77 ± 6 a",
       "confidence": "high"
     },
     "location": {
@@ -911,110 +885,6 @@
   },
   {
     "data cell": {
-      "value": "",
-      "confidence": "medium"
-    },
-    "location": {
-      "value": "Row 10, Column 2",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "Placebo",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "medium"
-    },
-    "location": {
-      "value": "Row 10, Column 3",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "Semaglutide",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "medium"
-    },
-    "location": {
-      "value": "Row 10, Column 4",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "Empagliflozin",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "medium"
-    },
-    "location": {
-      "value": "Row 10, Column 5",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
       "value": "0.43",
       "confidence": "high"
     },
@@ -1059,7 +929,7 @@
       },
       "row header level-3": {
         "value": "Yes",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1089,7 +959,7 @@
       },
       "row header level-3": {
         "value": "Yes",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1119,7 +989,7 @@
       },
       "row header level-3": {
         "value": "Yes",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1149,42 +1019,12 @@
       },
       "row header level-3": {
         "value": "Yes",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
         "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 11, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
-        "value": "Yes",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
         "confidence": "high"
       }
     }
@@ -1209,7 +1049,7 @@
       },
       "row header level-3": {
         "value": "No",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1239,7 +1079,7 @@
       },
       "row header level-3": {
         "value": "No",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1269,7 +1109,7 @@
       },
       "row header level-3": {
         "value": "No",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1299,42 +1139,12 @@
       },
       "row header level-3": {
         "value": "No",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
         "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 12, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
-        "value": "No",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
         "confidence": "high"
       }
     }
@@ -1359,7 +1169,7 @@
       },
       "row header level-3": {
         "value": "Former",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1389,7 +1199,7 @@
       },
       "row header level-3": {
         "value": "Former",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1419,7 +1229,7 @@
       },
       "row header level-3": {
         "value": "Former",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1449,42 +1259,12 @@
       },
       "row header level-3": {
         "value": "Former",
-        "confidence": "high"
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
         "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 13, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
-        "value": "Former",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
         "confidence": "high"
       }
     }
@@ -1725,32 +1505,6 @@
   },
   {
     "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 15, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "History of CVDc and age <60 years",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
       "value": "5 (25)",
       "confidence": "high"
     },
@@ -1849,32 +1603,6 @@
     "column header": {
       "column header level-1": {
         "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 16, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "History of CVDc and age ≥60 years",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
         "confidence": "high"
       }
     }
@@ -2109,32 +1837,6 @@
     "column header": {
       "column header level-1": {
         "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 19, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Biochemistry",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "HbA1c, %",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
         "confidence": "high"
       }
     }
@@ -2765,32 +2467,6 @@
   },
   {
     "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 24, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Biochemistry",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "UACR 3–30 mg/mmol",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
       "value": "2 (10)",
       "confidence": "high"
     },
@@ -2895,33 +2571,7 @@
   },
   {
     "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 25, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Biochemistry",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "UACR >30 mg/mmol",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "91 ± 23a",
+      "value": "91 ± 23 a",
       "confidence": "high"
     },
     "location": {
@@ -2947,7 +2597,7 @@
   },
   {
     "data cell": {
-      "value": "87 ± 21d",
+      "value": "87 ± 21 d",
       "confidence": "high"
     },
     "location": {
@@ -3149,32 +2799,6 @@
     "column header": {
       "column header level-1": {
         "value": "Combination",
-        "confidence": "high"
-      }
-    }
-  },
-  {
-    "data cell": {
-      "value": "–",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 27, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Biochemistry",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m2",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "column header level-1": {
-        "value": "p value",
         "confidence": "high"
       }
     }
