@@ -9,8 +9,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "No. of participants",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "No. of participants",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -27,8 +33,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "No. of participants",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "No. of participants",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -45,8 +57,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "No. of participants",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "No. of participants",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -63,8 +81,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "No. of participants",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "No. of participants",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -74,15 +98,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 3, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "No. of participants",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "No. of participants",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -99,8 +129,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Age, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -117,8 +153,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Age, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -135,8 +177,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Age, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -153,8 +201,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Age, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -171,8 +225,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Age, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Age, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -189,8 +249,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Male sex",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Male sex",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -207,8 +273,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Male sex",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Male sex",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -225,8 +297,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Male sex",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Male sex",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -243,8 +321,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Male sex",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Male sex",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -261,8 +345,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Male sex",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Male sex",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -279,8 +369,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "BMI, kg/m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -297,8 +393,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "BMI, kg/m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -315,8 +417,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "BMI, kg/m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -333,8 +441,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "BMI, kg/m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -351,8 +465,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "BMI, kg/m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "BMI, kg/m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -369,8 +489,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Duration of diabetes, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -387,8 +513,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Duration of diabetes, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -405,8 +537,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Duration of diabetes, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -423,8 +561,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Duration of diabetes, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -441,8 +585,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Duration of diabetes, years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Duration of diabetes, years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -451,16 +601,22 @@
   },
   {
     "data cell": {
-      "value": "139 ± 13a",
-      "confidence": "high"
+      "value": "139 ± 13 (superscript a)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 8, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Office systolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office systolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -469,16 +625,22 @@
   },
   {
     "data cell": {
-      "value": "131 ± 17b",
-      "confidence": "high"
+      "value": "131 ± 17 (superscript b)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 8, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Office systolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office systolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -487,16 +649,22 @@
   },
   {
     "data cell": {
-      "value": "139 ± 15a",
-      "confidence": "high"
+      "value": "139 ± 15 (superscript a)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 8, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Office systolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office systolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -513,8 +681,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Office systolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office systolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -531,8 +705,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Office systolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office systolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -541,16 +721,22 @@
   },
   {
     "data cell": {
-      "value": "78 ± 10a",
-      "confidence": "high"
+      "value": "78 ± 10 (superscript a)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 9, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "Office diastolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office diastolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -559,16 +745,22 @@
   },
   {
     "data cell": {
-      "value": "73 ± 8b",
-      "confidence": "high"
+      "value": "73 ± 8 (superscript b)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 9, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "Office diastolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office diastolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -577,16 +769,22 @@
   },
   {
     "data cell": {
-      "value": "77 ± 6a",
-      "confidence": "high"
+      "value": "77 ± 6 (superscript a)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 9, Column 4",
       "confidence": "high"
     },
     "row header": {
-      "value": "Office diastolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office diastolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -603,8 +801,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Office diastolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office diastolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -621,8 +825,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Office diastolic BP, mmHg",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Office diastolic BP, mmHg",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -639,8 +849,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Smoking",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -657,8 +873,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Smoking",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -675,8 +897,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Smoking",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -693,8 +921,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Smoking",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -711,8 +945,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Smoking",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -730,11 +970,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Yes",
+        "value": "Smoking -> Yes",
         "confidence": "high"
       }
     },
@@ -754,11 +994,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Yes",
+        "value": "Smoking -> Yes",
         "confidence": "high"
       }
     },
@@ -778,11 +1018,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Yes",
+        "value": "Smoking -> Yes",
         "confidence": "high"
       }
     },
@@ -802,11 +1042,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Yes",
+        "value": "Smoking -> Yes",
         "confidence": "high"
       }
     },
@@ -818,7 +1058,7 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 11, Column 6",
@@ -826,11 +1066,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Yes",
+        "value": "Smoking -> Yes",
         "confidence": "high"
       }
     },
@@ -850,11 +1090,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "No",
+        "value": "Smoking -> No",
         "confidence": "high"
       }
     },
@@ -874,11 +1114,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "No",
+        "value": "Smoking -> No",
         "confidence": "high"
       }
     },
@@ -898,11 +1138,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "No",
+        "value": "Smoking -> No",
         "confidence": "high"
       }
     },
@@ -922,11 +1162,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "No",
+        "value": "Smoking -> No",
         "confidence": "high"
       }
     },
@@ -938,7 +1178,7 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 12, Column 6",
@@ -946,11 +1186,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "No",
+        "value": "Smoking -> No",
         "confidence": "high"
       }
     },
@@ -970,11 +1210,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Former",
+        "value": "Smoking -> Former",
         "confidence": "high"
       }
     },
@@ -994,11 +1234,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Former",
+        "value": "Smoking -> Former",
         "confidence": "high"
       }
     },
@@ -1018,11 +1258,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Former",
+        "value": "Smoking -> Former",
         "confidence": "high"
       }
     },
@@ -1042,11 +1282,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Former",
+        "value": "Smoking -> Former",
         "confidence": "high"
       }
     },
@@ -1058,7 +1298,7 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 13, Column 6",
@@ -1066,11 +1306,11 @@
     },
     "row header": {
       "1-level row header": {
-        "value": "Smoking",
+        "value": "Clinical",
         "confidence": "high"
       },
       "2-level row header": {
-        "value": "Former",
+        "value": "Smoking -> Former",
         "confidence": "high"
       }
     },
@@ -1089,8 +1329,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1107,8 +1353,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1125,8 +1377,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1143,8 +1401,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1161,8 +1425,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1179,8 +1449,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age <60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age <60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1197,8 +1473,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age <60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age <60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1215,8 +1497,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age <60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age <60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1233,8 +1521,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age <60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age <60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1244,15 +1538,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 15, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age <60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age <60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1269,8 +1569,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age ≥60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age ≥60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1287,8 +1593,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age ≥60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age ≥60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1305,8 +1617,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age ≥60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age ≥60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1323,8 +1641,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age ≥60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age ≥60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1334,15 +1658,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 16, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "History of CVDc and age ≥60 years",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "History of CVD and age ≥60 years",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1359,8 +1689,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, mmol/mol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, mmol/mol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1377,8 +1713,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, mmol/mol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, mmol/mol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1395,8 +1737,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, mmol/mol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, mmol/mol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1413,8 +1761,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, mmol/mol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, mmol/mol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1431,8 +1785,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, mmol/mol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, mmol/mol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1449,8 +1809,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, %",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, %",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1467,8 +1833,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, %",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, %",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1485,8 +1857,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, %",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, %",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1503,8 +1881,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, %",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, %",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1514,15 +1898,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 19, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "HbA1c, %",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "HbA1c, %",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1539,8 +1929,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Plasma glucose, mmol/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Plasma glucose, mmol/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1557,8 +1953,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Plasma glucose, mmol/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Plasma glucose, mmol/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1575,8 +1977,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Plasma glucose, mmol/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Plasma glucose, mmol/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1593,8 +2001,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Plasma glucose, mmol/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Plasma glucose, mmol/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1611,8 +2025,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Plasma glucose, mmol/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Plasma glucose, mmol/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1629,8 +2049,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Haematocrit, vol%",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Haematocrit, vol%",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1647,8 +2073,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Haematocrit, vol%",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Haematocrit, vol%",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1665,8 +2097,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Haematocrit, vol%",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Haematocrit, vol%",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1683,8 +2121,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Haematocrit, vol%",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Haematocrit, vol%",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1701,8 +2145,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Haematocrit, vol%",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Haematocrit, vol%",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1719,8 +2169,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "P-EPO, U/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "P-EPO, U/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1737,8 +2193,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "P-EPO, U/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "P-EPO, U/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1755,8 +2217,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "P-EPO, U/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "P-EPO, U/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1773,8 +2241,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "P-EPO, U/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "P-EPO, U/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1791,8 +2265,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "P-EPO, U/l",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "P-EPO, U/l",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1809,8 +2289,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR, mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR, mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1827,8 +2313,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR, mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR, mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1845,8 +2337,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR, mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR, mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1863,8 +2361,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR, mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR, mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1881,8 +2385,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR, mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR, mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1899,8 +2409,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR 3–30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR 3–30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -1917,8 +2433,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR 3–30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR 3–30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -1935,8 +2457,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR 3–30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR 3–30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -1953,8 +2481,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR 3–30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR 3–30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -1964,15 +2498,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 24, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR 3–30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR 3–30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -1989,8 +2529,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR >30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR >30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2007,8 +2553,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR >30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR >30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2025,8 +2577,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR >30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR >30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2043,8 +2601,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR >30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR >30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2054,15 +2618,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 25, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "UACR >30 mg/mmol",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "UACR >30 mg/mmol",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2071,16 +2641,22 @@
   },
   {
     "data cell": {
-      "value": "91 ± 23a",
-      "confidence": "high"
+      "value": "91 ± 23 (superscript a)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 26, Column 2",
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR, ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR, ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2089,16 +2665,22 @@
   },
   {
     "data cell": {
-      "value": "87 ± 21d",
-      "confidence": "high"
+      "value": "87 ± 21 (superscript d)",
+      "confidence": "medium"
     },
     "location": {
       "value": "Row 26, Column 3",
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR, ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR, ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2115,8 +2697,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR, ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR, ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2133,8 +2721,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR, ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR, ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2151,8 +2745,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR, ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR, ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2169,8 +2769,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR <60 ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR <60 ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2187,8 +2793,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR <60 ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR <60 ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2205,8 +2817,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR <60 ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR <60 ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2223,8 +2841,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR <60 ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR <60 ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2234,15 +2858,21 @@
   {
     "data cell": {
       "value": "–",
-      "confidence": "medium"
+      "confidence": "low"
     },
     "location": {
       "value": "Row 27, Column 6",
       "confidence": "high"
     },
     "row header": {
-      "value": "GFR <60 ml/min per 1.73 m2",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Biochemistry",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "GFR <60 ml/min per 1.73 m^2",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2259,8 +2889,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Metformin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Metformin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2277,8 +2913,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Metformin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Metformin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2295,8 +2937,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Metformin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Metformin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2313,8 +2961,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Metformin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Metformin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2331,8 +2985,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Metformin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Metformin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2349,8 +3009,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Insulin therapy",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Insulin therapy",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2367,8 +3033,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Insulin therapy",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Insulin therapy",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2385,8 +3057,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Insulin therapy",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Insulin therapy",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2403,8 +3081,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Insulin therapy",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Insulin therapy",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2421,8 +3105,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Insulin therapy",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Insulin therapy",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2439,8 +3129,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Renin–angiotensin–aldosterone system blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Renin–angiotensin–aldosterone system blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2457,8 +3153,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Renin–angiotensin–aldosterone system blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Renin–angiotensin–aldosterone system blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2475,8 +3177,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Renin–angiotensin–aldosterone system blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Renin–angiotensin–aldosterone system blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2493,8 +3201,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Renin–angiotensin–aldosterone system blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Renin–angiotensin–aldosterone system blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2511,8 +3225,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Renin–angiotensin–aldosterone system blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Renin–angiotensin–aldosterone system blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2529,8 +3249,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Calcium antagonist",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Calcium antagonist",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2547,8 +3273,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Calcium antagonist",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Calcium antagonist",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2565,8 +3297,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Calcium antagonist",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Calcium antagonist",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2583,8 +3321,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Calcium antagonist",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Calcium antagonist",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2601,8 +3345,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Calcium antagonist",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Calcium antagonist",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2619,8 +3369,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "β-blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "β-blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2637,8 +3393,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "β-blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "β-blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2655,8 +3417,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "β-blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "β-blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2673,8 +3441,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "β-blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "β-blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2691,8 +3465,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "β-blocker",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "β-blocker",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2709,8 +3489,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Thiazide/loop diuretics",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Thiazide/loop diuretics",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2727,8 +3513,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Thiazide/loop diuretics",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Thiazide/loop diuretics",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2745,8 +3537,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Thiazide/loop diuretics",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Thiazide/loop diuretics",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2763,8 +3561,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Thiazide/loop diuretics",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Thiazide/loop diuretics",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2781,8 +3585,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Thiazide/loop diuretics",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Thiazide/loop diuretics",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
@@ -2799,8 +3609,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Statin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Statin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Placebo",
@@ -2817,8 +3633,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Statin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Statin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Semaglutide",
@@ -2835,8 +3657,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Statin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Statin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Empagliflozin",
@@ -2853,8 +3681,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Statin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Statin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "Combination",
@@ -2871,8 +3705,14 @@
       "confidence": "high"
     },
     "row header": {
-      "value": "Statin",
-      "confidence": "high"
+      "1-level row header": {
+        "value": "Medication",
+        "confidence": "high"
+      },
+      "2-level row header": {
+        "value": "Statin",
+        "confidence": "high"
+      }
     },
     "column header": {
       "value": "p value",
