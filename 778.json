@@ -115,7 +115,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -235,7 +235,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -355,7 +355,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -475,7 +475,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -595,7 +595,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -715,7 +715,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -835,127 +835,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
-      "confidence": "high"
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 10, Column 2",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "value": "Placebo",
-      "confidence": "high"
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 10, Column 3",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "value": "Semaglutide",
-      "confidence": "high"
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 10, Column 4",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "value": "Empagliflozin",
-      "confidence": "high"
-    }
-  },
-  {
-    "data cell": {
-      "value": "",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 10, Column 5",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "value": "Combination",
-      "confidence": "high"
-    }
-  },
-  {
-    "data cell": {
-      "value": "0.43",
-      "confidence": "high"
-    },
-    "location": {
-      "value": "Row 10, Column 6",
-      "confidence": "high"
-    },
-    "row header": {
-      "row header level-1": {
-        "value": "Clinical",
-        "confidence": "high"
-      },
-      "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      }
-    },
-    "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -974,10 +854,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
@@ -1002,10 +878,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
@@ -1030,10 +902,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
@@ -1058,10 +926,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
@@ -1086,16 +950,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Yes",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1114,10 +974,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
@@ -1142,10 +998,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
@@ -1170,10 +1022,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
@@ -1198,10 +1046,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
@@ -1226,16 +1070,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "No",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1254,10 +1094,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
@@ -1282,10 +1118,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
@@ -1310,10 +1142,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
@@ -1338,10 +1166,6 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
@@ -1366,16 +1190,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Smoking",
-        "confidence": "high"
-      },
-      "row header level-3": {
         "value": "Former",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1495,7 +1315,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1615,7 +1435,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1735,7 +1555,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1855,7 +1675,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -1975,7 +1795,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2095,7 +1915,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2215,7 +2035,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2335,7 +2155,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2455,7 +2275,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2575,7 +2395,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2695,7 +2515,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2815,7 +2635,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -2935,7 +2755,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3055,7 +2875,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3175,7 +2995,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3295,7 +3115,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3415,7 +3235,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3535,7 +3355,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3655,7 +3475,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   },
@@ -3775,7 +3595,7 @@
       }
     },
     "column header": {
-      "value": "pvalue",
+      "value": "p value",
       "confidence": "high"
     }
   }
