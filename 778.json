@@ -1,61 +1,156 @@
 {
-  "Table Title": "Table 1 Baseline characteristics by treatment group",
-  "Source": "Separate and combined effects of semaglutide and empagliflozin on kidney oxygenation and perfusion in people with type 2 diabetes: a randomised trial",
-  "Data": [
+  "title": "Table 1 Baseline characteristics by treatment group",
+  "source": "Separate and combined effects of semaglutide and empagliflozin on kidney oxygenation and perfusion in people with type 2 diabetes: a randomised trial",
+  "data": [
     {
-      "Category": "Clinical",
-      "Characteristic": "No. of participants",
-      "Values": {
-        "Placebo": "20",
-        "Semaglutide": "20",
-        "Empagliflozin": "20",
-        "Combination": "20",
-        "p value": "–"
-      }
+      "section": "Clinical",
+      "row_header": "No. of participants",
+      "column_header": "Placebo",
+      "value": "20"
     },
     {
-      "Category": "Clinical",
-      "Characteristic": "Age, years",
-      "Values": {
-        "Placebo": "64.6 ± 6.1",
-        "Semaglutide": "70.1 ± 6.8",
-        "Empagliflozin": "69.6 ± 6.0",
-        "Combination": "67.9 ± 6.2",
-        "p value": "0.03"
-      }
+      "section": "Clinical",
+      "row_header": "No. of participants",
+      "column_header": "Semaglutide",
+      "value": "20"
     },
     {
-      "Category": "Clinical",
-      "Characteristic": "Male sex",
-      "Values": {
-        "Placebo": "14 (70)",
-        "Semaglutide": "17 (85)",
-        "Empagliflozin": "13 (65)",
-        "Combination": "17 (85)",
-        "p value": "0.32"
-      }
+      "section": "Clinical",
+      "row_header": "No. of participants",
+      "column_header": "Empagliflozin",
+      "value": "20"
     },
     {
-      "Category": "Clinical",
-      "Characteristic": "BMI, kg/m2",
-      "Values": {
-        "Placebo": "33 ± 6",
-        "Semaglutide": "32 ± 5",
-        "Empagliflozin": "33 ± 6",
-        "Combination": "31 ± 5",
-        "p value": "0.38"
-      }
+      "section": "Clinical",
+      "row_header": "No. of participants",
+      "column_header": "Combination",
+      "value": "20"
     },
     {
-      "Category": "Clinical",
-      "Characteristic": "Duration of diabetes, years",
-      "Values": {
-        "Placebo": "8.0 (4.0–10.0)",
-        "Semaglutide": "8.5 (3.5–16.0)",
-        "Empagliflozin": "10.0 (5.0–18.5)",
-        "Combination": "6.0 (2.3–12.0)",
-        "p value": "0.46"
-      }
+      "section": "Clinical",
+      "row_header": "No. of participants",
+      "column_header": "p value",
+      "value": "–"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Age, years",
+      "column_header": "Placebo",
+      "value": "64.6 ± 6.1"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Age, years",
+      "column_header": "Semaglutide",
+      "value": "70.1 ± 6.8"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Age, years",
+      "column_header": "Empagliflozin",
+      "value": "69.6 ± 6.0"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Age, years",
+      "column_header": "Combination",
+      "value": "67.9 ± 6.2"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Age, years",
+      "column_header": "p value",
+      "value": "0.03"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Male sex",
+      "column_header": "Placebo",
+      "value": "14 (70)"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Male sex",
+      "column_header": "Semaglutide",
+      "value": "17 (85)"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Male sex",
+      "column_header": "Empagliflozin",
+      "value": "13 (65)"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Male sex",
+      "column_header": "Combination",
+      "value": "17 (85)"
+    },
+    {
+      "section": "Clinical",
+      "row_header": "Male sex",
+      "column_header": "p value",
+      "value": "0.32"
+    },
+    {
+      "section": "Biochemistry",
+      "row_header": "HbA1c, mmol/mol",
+      "column_header": "Placebo",
+      "value": "60 (51–67)"
+    },
+    {
+      "section": "Biochemistry",
+      "row_header": "HbA1c, mmol/mol",
+      "column_header": "Semaglutide",
+      "value": "59 (52–62)"
+    },
+    {
+      "section": "Biochemistry",
+      "row_header": "HbA1c, mmol/mol",
+      "column_header": "Empagliflozin",
+      "value": "57 (52–60)"
+    },
+    {
+      "section": "Biochemistry",
+      "row_header": "HbA1c, mmol/mol",
+      "column_header": "Combination",
+      "value": "58 (50–74)"
+    },
+    {
+      "section": "Biochemistry",
+      "row_header": "HbA1c, mmol/mol",
+      "column_header": "p value",
+      "value": "0.85"
+    },
+    {
+      "section": "Medication",
+      "row_header": "Metformin",
+      "column_header": "Placebo",
+      "value": "18 (90)"
+    },
+    {
+      "section": "Medication",
+      "row_header": "Metformin",
+      "column_header": "Semaglutide",
+      "value": "17 (85)"
+    },
+    {
+      "section": "Medication",
+      "row_header": "Metformin",
+      "column_header": "Empagliflozin",
+      "value": "18 (90)"
+    },
+    {
+      "section": "Medication",
+      "row_header": "Metformin",
+      "column_header": "Combination",
+      "value": "20 (100)"
+    },
+    {
+      "section": "Medication",
+      "row_header": "Metformin",
+      "column_header": "p value",
+      "value": "0.40"
     }
   ]
 }

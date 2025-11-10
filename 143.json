@@ -1,134 +1,42 @@
-{
-  "Table": {
-    "Title": "Baseline demographics and clinical characteristics: ITT populations",
-    "Groups": [
-      {
-        "Trial": "AMPLITUDE-D",
-        "Treatments": [
-          "Efpeglenatide 4 mg (N=303)",
-          "Efpeglenatide 6 mg (N=302)",
-          "Dulaglutide 1.5 mg (N=303)"
-        ]
-      },
-      {
-        "Trial": "AMPLITUDE-L",
-        "Treatments": [
-          "Efpeglenatide 2 mg (N=92)",
-          "Efpeglenatide 4 mg (N=93)",
-          "Efpeglenatide 6 mg (N=93)",
-          "Placebo (N=92)"
-        ]
-      },
-      {
-        "Trial": "AMPLITUDE-S",
-        "Treatments": [
-          "Efpeglenatide 2 mg (N=78)",
-          "Efpeglenatide 4 mg (N=77)",
-          "Efpeglenatide 6 mg (N=78)",
-          "Placebo (N=79)"
-        ]
-      }
-    ],
-    "Data": [
-      {
-        "Characteristic": "Age, y",
-        "Values": {
-          "AMPLITUDE-D": {
-            "Efpeglenatide 4 mg (N=303)": "60.3 ± 9.6",
-            "Efpeglenatide 6 mg (N=302)": "60.0 ± 10.1",
-            "Dulaglutide 1.5 mg (N=303)": "59.4 ± 10.1"
-          },
-          "AMPLITUDE-L": {
-            "Efpeglenatide 2 mg (N=92)": "59.1 ± 10.7",
-            "Efpeglenatide 4 mg (N=93)": "60.6 ± 11.5",
-            "Efpeglenatide 6 mg (N=93)": "61.6 ± 10.3",
-            "Placebo (N=92)": "58.9 ± 10.7"
-          },
-          "AMPLITUDE-S": {
-            "Efpeglenatide 2 mg (N=78)": "60.1 ± 10.9",
-            "Efpeglenatide 4 mg (N=77)": "57.9 ± 10.5",
-            "Efpeglenatide 6 mg (N=78)": "58.8 ± 11.5",
-            "Placebo (N=79)": "58.9 ± 10.6"
-          }
-        }
-      },
-      {
-        "Characteristic": "Male, n (%)",
-        "Values": {
-          "AMPLITUDE-D": {
-            "Efpeglenatide 4 mg (N=303)": "161 (53.1)",
-            "Efpeglenatide 6 mg (N=302)": "145 (48.0)",
-            "Dulaglutide 1.5 mg (N=303)": "150 (49.5)"
-          },
-          "AMPLITUDE-L": {
-            "Efpeglenatide 2 mg (N=92)": "50 (54.3)",
-            "Efpeglenatide 4 mg (N=93)": "51 (54.8)",
-            "Efpeglenatide 6 mg (N=93)": "53 (57.0)",
-            "Placebo (N=92)": "43 (46.7)"
-          },
-          "AMPLITUDE-S": {
-            "Efpeglenatide 2 mg (N=78)": "44 (56.4)",
-            "Efpeglenatide 4 mg (N=77)": "44 (57.1)",
-            "Efpeglenatide 6 mg (N=78)": "39 (50.0)",
-            "Placebo (N=79)": "45 (57.0)"
-          }
-        }
-      },
-      {
-        "Characteristic Group": "Race, n (%)",
-        "Subcharacteristics": [
-          {
-            "Characteristic": "White",
-            "Values": {
-              "AMPLITUDE-D": {
-                "Efpeglenatide 4 mg (N=303)": "271 (89.4)",
-                "Efpeglenatide 6 mg (N=302)": "263 (87.1)",
-                "Dulaglutide 1.5 mg (N=303)": "275 (90.8)"
-              },
-              "AMPLITUDE-L": {
-                "Efpeglenatide 2 mg (N=92)": "49 (53.3)",
-                "Efpeglenatide 4 mg (N=93)": "51 (54.8)",
-                "Efpeglenatide 6 mg (N=93)": "50 (53.8)",
-                "Placebo (N=92)": "45 (48.9)"
-              },
-              "AMPLITUDE-S": {
-                "Efpeglenatide 2 mg (N=78)": "43 (55.1)",
-                "Efpeglenatide 4 mg (N=77)": "46 (59.7)",
-                "Efpeglenatide 6 mg (N=78)": "48 (61.5)",
-                "Placebo (N=79)": "42 (53.2)"
-              }
-            }
-          },
-          {
-            "Characteristic": "Black or African American",
-            "Values": {
-              "AMPLITUDE-D": {
-                "Efpeglenatide 4 mg (N=303)": "24 (7.9)",
-                "Efpeglenatide 6 mg (N=302)": "30 (9.9)",
-                "Dulaglutide 1.5 mg (N=303)": "18 (5.9)"
-              },
-              "AMPLITUDE-L": {
-                "Efpeglenatide 2 mg (N=92)": "9 (9.8)",
-                "Efpeglenatide 4 mg (N=93)": "10 (10.8)",
-                "Efpeglenatide 6 mg (N=93)": "8 (8.6)",
-                "Placebo (N=92)": "9 (9.8)"
-              },
-              "AMPLITUDE-S": {
-                "Efpeglenatide 2 mg (N=78)": "10 (12.8)",
-                "Efpeglenatide 4 mg (N=77)": "4 (5.2)",
-                "Efpeglenatide 6 mg (N=78)": "7 (9.0)",
-                "Placebo (N=79)": "11 (13.9)"
-              }
-            }
-          }
-        ]
-      }
-      /* … and so on for every characteristic down to SU use … */
-    ],
-    "Footnotes": {
-      "1": "Data are presented as mean ± SD unless otherwise stated. ITT population defined as all randomized participants.",
-      "2": "Abbreviations: BMI, body mass index; eGFR, estimated glomerular filtration rate; FPG, fasting plasma glucose; ITT, intention-to-treat; SD, standard deviation; SU, sulphonylurea.",
-      "†": "In AMPLITUDE-S, these data represent the number (%) of participants receiving SU in addition to metformin."
-    }
+[
+  {
+    "row_header": "Age, y",
+    "column_header": {
+      "study": "AMPLITUDE-D",
+      "treatment": "Efpeglenatide 4 mg (N = 303)"
+    },
+    "value": "60.3 ± 9.6"
+  },
+  {
+    "row_header": "Age, y",
+    "column_header": {
+      "study": "AMPLITUDE-D",
+      "treatment": "Efpeglenatide 6 mg (N = 302)"
+    },
+    "value": "60.0 ± 10.1"
+  },
+  {
+    "row_header": "Age, y",
+    "column_header": {
+      "study": "AMPLITUDE-D",
+      "treatment": "Dulaglutide 1.5 mg (N = 303)"
+    },
+    "value": "59.4 ± 10.1"
+  },
+  {
+    "row_header": "Male, n (%)",
+    "column_header": {
+      "study": "AMPLITUDE-D",
+      "treatment": "Efpeglenatide 4 mg (N = 303)"
+    },
+    "value": "161 (53.1)"
+  },
+  {
+    "row_header": "Race → White",
+    "column_header": {
+      "study": "AMPLITUDE-S",
+      "treatment": "Placebo (N = 79)"
+    },
+    "value": "42 (53.2)"
   }
-}
+]
