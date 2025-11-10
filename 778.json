@@ -13,7 +13,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "No. of participants",
         "confidence": "high"
       }
@@ -37,7 +37,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "No. of participants",
         "confidence": "high"
       }
@@ -61,7 +61,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "No. of participants",
         "confidence": "high"
       }
@@ -85,7 +85,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "No. of participants",
         "confidence": "high"
       }
@@ -109,7 +109,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "No. of participants",
         "confidence": "high"
       }
@@ -133,7 +133,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Age, years",
         "confidence": "high"
       }
@@ -157,7 +157,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Age, years",
         "confidence": "high"
       }
@@ -181,7 +181,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Age, years",
         "confidence": "high"
       }
@@ -205,7 +205,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Age, years",
         "confidence": "high"
       }
@@ -229,7 +229,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Age, years",
         "confidence": "high"
       }
@@ -253,7 +253,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Male sex",
         "confidence": "high"
       }
@@ -277,7 +277,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Male sex",
         "confidence": "high"
       }
@@ -301,7 +301,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Male sex",
         "confidence": "high"
       }
@@ -325,7 +325,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Male sex",
         "confidence": "high"
       }
@@ -349,7 +349,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Male sex",
         "confidence": "high"
       }
@@ -373,7 +373,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "BMI, kg/m2",
         "confidence": "high"
       }
@@ -397,7 +397,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "BMI, kg/m2",
         "confidence": "high"
       }
@@ -421,7 +421,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "BMI, kg/m2",
         "confidence": "high"
       }
@@ -445,7 +445,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "BMI, kg/m2",
         "confidence": "high"
       }
@@ -469,7 +469,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "BMI, kg/m2",
         "confidence": "high"
       }
@@ -493,7 +493,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Duration of diabetes, years",
         "confidence": "high"
       }
@@ -517,7 +517,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Duration of diabetes, years",
         "confidence": "high"
       }
@@ -541,7 +541,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Duration of diabetes, years",
         "confidence": "high"
       }
@@ -565,7 +565,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Duration of diabetes, years",
         "confidence": "high"
       }
@@ -589,7 +589,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Duration of diabetes, years",
         "confidence": "high"
       }
@@ -613,7 +613,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office systolic BP, mmHg",
         "confidence": "high"
       }
@@ -637,7 +637,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office systolic BP, mmHg",
         "confidence": "high"
       }
@@ -661,7 +661,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office systolic BP, mmHg",
         "confidence": "high"
       }
@@ -685,7 +685,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office systolic BP, mmHg",
         "confidence": "high"
       }
@@ -709,7 +709,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office systolic BP, mmHg",
         "confidence": "high"
       }
@@ -733,7 +733,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office diastolic BP, mmHg",
         "confidence": "high"
       }
@@ -757,7 +757,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office diastolic BP, mmHg",
         "confidence": "high"
       }
@@ -781,7 +781,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office diastolic BP, mmHg",
         "confidence": "high"
       }
@@ -805,7 +805,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office diastolic BP, mmHg",
         "confidence": "high"
       }
@@ -829,8 +829,128 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Office diastolic BP, mmHg",
+        "confidence": "high"
+      }
+    },
+    "column header": {
+      "value": "p value",
+      "confidence": "high"
+    }
+  },
+  {
+    "data cell": {
+      "value": "",
+      "confidence": "medium"
+    },
+    "location": {
+      "value": "Row 10, Column 2",
+      "confidence": "high"
+    },
+    "row header": {
+      "row header level-1": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
+    },
+    "column header": {
+      "value": "Placebo",
+      "confidence": "high"
+    }
+  },
+  {
+    "data cell": {
+      "value": "",
+      "confidence": "medium"
+    },
+    "location": {
+      "value": "Row 10, Column 3",
+      "confidence": "high"
+    },
+    "row header": {
+      "row header level-1": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
+    },
+    "column header": {
+      "value": "Semaglutide",
+      "confidence": "high"
+    }
+  },
+  {
+    "data cell": {
+      "value": "",
+      "confidence": "medium"
+    },
+    "location": {
+      "value": "Row 10, Column 4",
+      "confidence": "high"
+    },
+    "row header": {
+      "row header level-1": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
+    },
+    "column header": {
+      "value": "Empagliflozin",
+      "confidence": "high"
+    }
+  },
+  {
+    "data cell": {
+      "value": "",
+      "confidence": "medium"
+    },
+    "location": {
+      "value": "Row 10, Column 5",
+      "confidence": "high"
+    },
+    "row header": {
+      "row header level-1": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Smoking",
+        "confidence": "high"
+      }
+    },
+    "column header": {
+      "value": "Combination",
+      "confidence": "high"
+    }
+  },
+  {
+    "data cell": {
+      "value": "0.43",
+      "confidence": "high"
+    },
+    "location": {
+      "value": "Row 10, Column 6",
+      "confidence": "high"
+    },
+    "row header": {
+      "row header level-1": {
+        "value": "Clinical",
+        "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
       }
     },
@@ -853,9 +973,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Yes",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -877,9 +1001,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Yes",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -901,9 +1029,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Yes",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -925,9 +1057,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Yes",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -949,9 +1085,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Yes",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -973,9 +1113,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "No",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -997,9 +1141,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "No",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1021,9 +1169,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "No",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1045,9 +1197,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "No",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1069,9 +1225,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "No",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1093,9 +1253,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Former",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1117,9 +1281,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Former",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1141,9 +1309,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Former",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1165,9 +1337,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Former",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1189,9 +1365,13 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "Former",
+      "row header level-3": {
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-4": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1213,7 +1393,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc",
         "confidence": "high"
       }
@@ -1237,7 +1417,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc",
         "confidence": "high"
       }
@@ -1261,7 +1441,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc",
         "confidence": "high"
       }
@@ -1285,7 +1465,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc",
         "confidence": "high"
       }
@@ -1309,7 +1489,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc",
         "confidence": "high"
       }
@@ -1333,8 +1513,8 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "History of CVDc and age <60 years",
+      "row header level-3": {
+        "value": "History of CVDc and age",
         "confidence": "high"
       }
     },
@@ -1357,8 +1537,8 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "History of CVDc and age <60 years",
+      "row header level-3": {
+        "value": "History of CVDc and age",
         "confidence": "high"
       }
     },
@@ -1381,8 +1561,8 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "History of CVDc and age <60 years",
+      "row header level-3": {
+        "value": "History of CVDc and age",
         "confidence": "high"
       }
     },
@@ -1405,8 +1585,8 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "History of CVDc and age <60 years",
+      "row header level-3": {
+        "value": "History of CVDc and age",
         "confidence": "high"
       }
     },
@@ -1429,8 +1609,8 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "History of CVDc and age <60 years",
+      "row header level-3": {
+        "value": "History of CVDc and age",
         "confidence": "high"
       }
     },
@@ -1453,7 +1633,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
@@ -1477,7 +1657,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
@@ -1501,7 +1681,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
@@ -1525,7 +1705,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
@@ -1549,7 +1729,7 @@
         "value": "Clinical",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
@@ -1573,7 +1753,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
@@ -1597,7 +1777,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
@@ -1621,7 +1801,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
@@ -1645,7 +1825,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
@@ -1669,7 +1849,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
@@ -1693,7 +1873,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, %",
         "confidence": "high"
       }
@@ -1717,7 +1897,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, %",
         "confidence": "high"
       }
@@ -1741,7 +1921,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, %",
         "confidence": "high"
       }
@@ -1765,7 +1945,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, %",
         "confidence": "high"
       }
@@ -1789,7 +1969,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "HbA1c, %",
         "confidence": "high"
       }
@@ -1813,7 +1993,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Plasma glucose, mmol/l",
         "confidence": "high"
       }
@@ -1837,7 +2017,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Plasma glucose, mmol/l",
         "confidence": "high"
       }
@@ -1861,7 +2041,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Plasma glucose, mmol/l",
         "confidence": "high"
       }
@@ -1885,7 +2065,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Plasma glucose, mmol/l",
         "confidence": "high"
       }
@@ -1909,7 +2089,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Plasma glucose, mmol/l",
         "confidence": "high"
       }
@@ -1933,7 +2113,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Haematocrit, vol%",
         "confidence": "high"
       }
@@ -1957,7 +2137,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Haematocrit, vol%",
         "confidence": "high"
       }
@@ -1981,7 +2161,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Haematocrit, vol%",
         "confidence": "high"
       }
@@ -2005,7 +2185,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Haematocrit, vol%",
         "confidence": "high"
       }
@@ -2029,7 +2209,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Haematocrit, vol%",
         "confidence": "high"
       }
@@ -2053,7 +2233,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "P-EPO, U/l",
         "confidence": "high"
       }
@@ -2077,7 +2257,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "P-EPO, U/l",
         "confidence": "high"
       }
@@ -2101,7 +2281,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "P-EPO, U/l",
         "confidence": "high"
       }
@@ -2125,7 +2305,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "P-EPO, U/l",
         "confidence": "high"
       }
@@ -2149,7 +2329,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "P-EPO, U/l",
         "confidence": "high"
       }
@@ -2173,7 +2353,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR, mg/mmol",
         "confidence": "high"
       }
@@ -2197,7 +2377,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR, mg/mmol",
         "confidence": "high"
       }
@@ -2221,7 +2401,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR, mg/mmol",
         "confidence": "high"
       }
@@ -2245,7 +2425,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR, mg/mmol",
         "confidence": "high"
       }
@@ -2269,7 +2449,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR, mg/mmol",
         "confidence": "high"
       }
@@ -2293,7 +2473,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR 3–30 mg/mmol",
         "confidence": "high"
       }
@@ -2317,7 +2497,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR 3–30 mg/mmol",
         "confidence": "high"
       }
@@ -2341,7 +2521,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR 3–30 mg/mmol",
         "confidence": "high"
       }
@@ -2365,7 +2545,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR 3–30 mg/mmol",
         "confidence": "high"
       }
@@ -2389,7 +2569,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR 3–30 mg/mmol",
         "confidence": "high"
       }
@@ -2413,7 +2593,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
@@ -2437,7 +2617,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
@@ -2461,7 +2641,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
@@ -2485,7 +2665,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
@@ -2509,7 +2689,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
@@ -2533,7 +2713,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
@@ -2557,7 +2737,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
@@ -2581,7 +2761,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
@@ -2605,7 +2785,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
@@ -2629,7 +2809,7 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
@@ -2653,8 +2833,8 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m2",
+      "row header level-3": {
+        "value": "GFR 2",
         "confidence": "high"
       }
     },
@@ -2677,8 +2857,8 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m2",
+      "row header level-3": {
+        "value": "GFR 2",
         "confidence": "high"
       }
     },
@@ -2701,8 +2881,8 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m2",
+      "row header level-3": {
+        "value": "GFR 2",
         "confidence": "high"
       }
     },
@@ -2725,8 +2905,8 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m2",
+      "row header level-3": {
+        "value": "GFR 2",
         "confidence": "high"
       }
     },
@@ -2749,8 +2929,8 @@
         "value": "Biochemistry",
         "confidence": "high"
       },
-      "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m2",
+      "row header level-3": {
+        "value": "GFR 2",
         "confidence": "high"
       }
     },
@@ -2773,7 +2953,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Metformin",
         "confidence": "high"
       }
@@ -2797,7 +2977,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Metformin",
         "confidence": "high"
       }
@@ -2821,7 +3001,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Metformin",
         "confidence": "high"
       }
@@ -2845,7 +3025,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Metformin",
         "confidence": "high"
       }
@@ -2869,7 +3049,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Metformin",
         "confidence": "high"
       }
@@ -2893,7 +3073,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Insulin therapy",
         "confidence": "high"
       }
@@ -2917,7 +3097,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Insulin therapy",
         "confidence": "high"
       }
@@ -2941,7 +3121,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Insulin therapy",
         "confidence": "high"
       }
@@ -2965,7 +3145,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Insulin therapy",
         "confidence": "high"
       }
@@ -2989,7 +3169,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Insulin therapy",
         "confidence": "high"
       }
@@ -3013,7 +3193,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Renin–angiotensin–aldosterone system blocker",
         "confidence": "high"
       }
@@ -3037,7 +3217,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Renin–angiotensin–aldosterone system blocker",
         "confidence": "high"
       }
@@ -3061,7 +3241,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Renin–angiotensin–aldosterone system blocker",
         "confidence": "high"
       }
@@ -3085,7 +3265,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Renin–angiotensin–aldosterone system blocker",
         "confidence": "high"
       }
@@ -3109,7 +3289,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Renin–angiotensin–aldosterone system blocker",
         "confidence": "high"
       }
@@ -3133,7 +3313,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Calcium antagonist",
         "confidence": "high"
       }
@@ -3157,7 +3337,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Calcium antagonist",
         "confidence": "high"
       }
@@ -3181,7 +3361,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Calcium antagonist",
         "confidence": "high"
       }
@@ -3205,7 +3385,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Calcium antagonist",
         "confidence": "high"
       }
@@ -3229,7 +3409,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Calcium antagonist",
         "confidence": "high"
       }
@@ -3253,7 +3433,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "β-blocker",
         "confidence": "high"
       }
@@ -3277,7 +3457,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "β-blocker",
         "confidence": "high"
       }
@@ -3301,7 +3481,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "β-blocker",
         "confidence": "high"
       }
@@ -3325,7 +3505,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "β-blocker",
         "confidence": "high"
       }
@@ -3349,7 +3529,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "β-blocker",
         "confidence": "high"
       }
@@ -3373,7 +3553,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Thiazide/loop diuretics",
         "confidence": "high"
       }
@@ -3397,7 +3577,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Thiazide/loop diuretics",
         "confidence": "high"
       }
@@ -3421,7 +3601,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Thiazide/loop diuretics",
         "confidence": "high"
       }
@@ -3445,7 +3625,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Thiazide/loop diuretics",
         "confidence": "high"
       }
@@ -3469,7 +3649,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Thiazide/loop diuretics",
         "confidence": "high"
       }
@@ -3493,7 +3673,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Statin",
         "confidence": "high"
       }
@@ -3517,7 +3697,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Statin",
         "confidence": "high"
       }
@@ -3541,7 +3721,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Statin",
         "confidence": "high"
       }
@@ -3565,7 +3745,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Statin",
         "confidence": "high"
       }
@@ -3589,7 +3769,7 @@
         "value": "Medication",
         "confidence": "high"
       },
-      "row header level-2": {
+      "row header level-3": {
         "value": "Statin",
         "confidence": "high"
       }
