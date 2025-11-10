@@ -1,362 +1,1104 @@
 [
   {
-    "row": 3,
-    "column": 2,
     "data": "20",
-    "1-level row header": "No. of participants",
-    "2-level row header": "Clinical",
+    "location": { "row": 3, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "No. of participants",
     "column header": "Placebo"
   },
   {
-    "row": 3,
-    "column": 3,
     "data": "20",
-    "1-level row header": "No. of participants",
-    "2-level row header": "Clinical",
+    "location": { "row": 3, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "No. of participants",
     "column header": "Semaglutide"
   },
   {
-    "row": 3,
-    "column": 4,
     "data": "20",
-    "1-level row header": "No. of participants",
-    "2-level row header": "Clinical",
+    "location": { "row": 3, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "No. of participants",
     "column header": "Empagliflozin"
   },
   {
-    "row": 3,
-    "column": 5,
     "data": "20",
-    "1-level row header": "No. of participants",
-    "2-level row header": "Clinical",
+    "location": { "row": 3, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "No. of participants",
     "column header": "Combination"
   },
   {
-    "row": 3,
-    "column": 6,
     "data": "–",
-    "1-level row header": "No. of participants",
-    "2-level row header": "Clinical",
+    "location": { "row": 3, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "No. of participants",
     "column header": "p value"
   },
+
   {
-    "row": 4,
-    "column": 2,
     "data": "64.6 ± 6.1",
-    "1-level row header": "Age, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 4, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Age, years",
     "column header": "Placebo"
   },
   {
-    "row": 4,
-    "column": 3,
     "data": "70.1 ± 6.8",
-    "1-level row header": "Age, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 4, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Age, years",
     "column header": "Semaglutide"
   },
   {
-    "row": 4,
-    "column": 4,
     "data": "69.6 ± 6.0",
-    "1-level row header": "Age, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 4, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Age, years",
     "column header": "Empagliflozin"
   },
   {
-    "row": 4,
-    "column": 5,
     "data": "67.9 ± 6.2",
-    "1-level row header": "Age, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 4, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Age, years",
     "column header": "Combination"
   },
   {
-    "row": 4,
-    "column": 6,
     "data": "0.03",
-    "1-level row header": "Age, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 4, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Age, years",
     "column header": "p value"
   },
+
   {
-    "row": 5,
-    "column": 2,
     "data": "14 (70)",
-    "1-level row header": "Male sex",
-    "2-level row header": "Clinical",
+    "location": { "row": 5, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Male sex",
     "column header": "Placebo"
   },
   {
-    "row": 5,
-    "column": 3,
     "data": "17 (85)",
-    "1-level row header": "Male sex",
-    "2-level row header": "Clinical",
+    "location": { "row": 5, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Male sex",
     "column header": "Semaglutide"
   },
   {
-    "row": 5,
-    "column": 4,
     "data": "13 (65)",
-    "1-level row header": "Male sex",
-    "2-level row header": "Clinical",
+    "location": { "row": 5, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Male sex",
     "column header": "Empagliflozin"
   },
   {
-    "row": 5,
-    "column": 5,
     "data": "17 (85)",
-    "1-level row header": "Male sex",
-    "2-level row header": "Clinical",
+    "location": { "row": 5, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Male sex",
     "column header": "Combination"
   },
   {
-    "row": 5,
-    "column": 6,
     "data": "0.32",
-    "1-level row header": "Male sex",
-    "2-level row header": "Clinical",
+    "location": { "row": 5, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Male sex",
     "column header": "p value"
   },
+
   {
-    "row": 6,
-    "column": 2,
     "data": "33 ± 6",
-    "1-level row header": "BMI, kg/m²",
-    "2-level row header": "Clinical",
+    "location": { "row": 6, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "BMI, kg/m2",
     "column header": "Placebo"
   },
   {
-    "row": 6,
-    "column": 3,
     "data": "32 ± 5",
-    "1-level row header": "BMI, kg/m²",
-    "2-level row header": "Clinical",
+    "location": { "row": 6, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "BMI, kg/m2",
     "column header": "Semaglutide"
   },
   {
-    "row": 6,
-    "column": 4,
     "data": "33 ± 6",
-    "1-level row header": "BMI, kg/m²",
-    "2-level row header": "Clinical",
+    "location": { "row": 6, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "BMI, kg/m2",
     "column header": "Empagliflozin"
   },
   {
-    "row": 6,
-    "column": 5,
     "data": "31 ± 5",
-    "1-level row header": "BMI, kg/m²",
-    "2-level row header": "Clinical",
+    "location": { "row": 6, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "BMI, kg/m2",
     "column header": "Combination"
   },
   {
-    "row": 6,
-    "column": 6,
     "data": "0.38",
-    "1-level row header": "BMI, kg/m²",
-    "2-level row header": "Clinical",
+    "location": { "row": 6, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "BMI, kg/m2",
     "column header": "p value"
   },
+
   {
-    "row": 7,
-    "column": 2,
     "data": "8.0 (4.0–10.0)",
-    "1-level row header": "Duration of diabetes, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 7, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Duration of diabetes, years",
     "column header": "Placebo"
   },
   {
-    "row": 7,
-    "column": 3,
     "data": "8.5 (3.5–16.0)",
-    "1-level row header": "Duration of diabetes, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 7, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Duration of diabetes, years",
     "column header": "Semaglutide"
   },
   {
-    "row": 7,
-    "column": 4,
     "data": "10.0 (5.0–18.5)",
-    "1-level row header": "Duration of diabetes, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 7, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Duration of diabetes, years",
     "column header": "Empagliflozin"
   },
   {
-    "row": 7,
-    "column": 5,
     "data": "6.0 (2.3–12.0)",
-    "1-level row header": "Duration of diabetes, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 7, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Duration of diabetes, years",
     "column header": "Combination"
   },
   {
-    "row": 7,
-    "column": 6,
     "data": "0.46",
-    "1-level row header": "Duration of diabetes, years",
-    "2-level row header": "Clinical",
+    "location": { "row": 7, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Duration of diabetes, years",
     "column header": "p value"
   },
+
   {
-    "row": 8,
-    "column": 2,
-    "data": "139 ± 13",
-    "1-level row header": "Office systolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "data": "139 ± 13a",
+    "location": { "row": 8, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office systolic BP, mmHg",
     "column header": "Placebo"
   },
   {
-    "row": 8,
-    "column": 3,
-    "data": "131 ± 17",
-    "1-level row header": "Office systolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "data": "131 ± 17b",
+    "location": { "row": 8, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office systolic BP, mmHg",
     "column header": "Semaglutide"
   },
   {
-    "row": 8,
-    "column": 4,
-    "data": "139 ± 15",
-    "1-level row header": "Office systolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "data": "139 ± 15a",
+    "location": { "row": 8, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office systolic BP, mmHg",
     "column header": "Empagliflozin"
   },
   {
-    "row": 8,
-    "column": 5,
     "data": "136 ± 14",
-    "1-level row header": "Office systolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "location": { "row": 8, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office systolic BP, mmHg",
     "column header": "Combination"
   },
   {
-    "row": 8,
-    "column": 6,
     "data": "0.33",
-    "1-level row header": "Office systolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "location": { "row": 8, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office systolic BP, mmHg",
     "column header": "p value"
   },
+
   {
-    "row": 9,
-    "column": 2,
-    "data": "78 ± 10",
-    "1-level row header": "Office diastolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "data": "78 ± 10a",
+    "location": { "row": 9, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office diastolic BP, mmHg",
     "column header": "Placebo"
   },
   {
-    "row": 9,
-    "column": 3,
-    "data": "73 ± 8",
-    "1-level row header": "Office diastolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "data": "73 ± 8b",
+    "location": { "row": 9, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office diastolic BP, mmHg",
     "column header": "Semaglutide"
   },
   {
-    "row": 9,
-    "column": 4,
-    "data": "77 ± 6",
-    "1-level row header": "Office diastolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "data": "77 ± 6a",
+    "location": { "row": 9, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office diastolic BP, mmHg",
     "column header": "Empagliflozin"
   },
   {
-    "row": 9,
-    "column": 5,
     "data": "75 ± 9",
-    "1-level row header": "Office diastolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "location": { "row": 9, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office diastolic BP, mmHg",
     "column header": "Combination"
   },
   {
-    "row": 9,
-    "column": 6,
     "data": "0.22",
-    "1-level row header": "Office diastolic BP, mmHg",
-    "2-level row header": "Clinical",
+    "location": { "row": 9, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Office diastolic BP, mmHg",
     "column header": "p value"
   },
+
   {
-    "row": 10,
-    "column": 2,
-    "data": "",
-    "1-level row header": "Smoking",
-    "2-level row header": "Clinical",
-    "column header": "Placebo"
-  },
-  {
-    "row": 10,
-    "column": 3,
-    "data": "",
-    "1-level row header": "Smoking",
-    "2-level row header": "Clinical",
-    "column header": "Semaglutide"
-  },
-  {
-    "row": 10,
-    "column": 4,
-    "data": "",
-    "1-level row header": "Smoking",
-    "2-level row header": "Clinical",
-    "column header": "Empagliflozin"
-  },
-  {
-    "row": 10,
-    "column": 5,
-    "data": "",
-    "1-level row header": "Smoking",
-    "2-level row header": "Clinical",
-    "column header": "Combination"
-  },
-  {
-    "row": 10,
-    "column": 6,
     "data": "0.43",
-    "1-level row header": "Smoking",
-    "2-level row header": "Clinical",
+    "location": { "row": 10, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
     "column header": "p value"
   },
+
   {
-    "row": 11,
-    "column": 2,
     "data": "4 (20)",
-    "1-level row header": "Yes",
+    "location": { "row": 11, "column": 2 },
+    "1-level row header": "Clinical",
     "2-level row header": "Smoking",
+    "3-level row header": "Yes",
     "column header": "Placebo"
   },
   {
-    "row": 11,
-    "column": 3,
     "data": "4 (20)",
-    "1-level row header": "Yes",
+    "location": { "row": 11, "column": 3 },
+    "1-level row header": "Clinical",
     "2-level row header": "Smoking",
+    "3-level row header": "Yes",
     "column header": "Semaglutide"
   },
   {
-    "row": 11,
-    "column": 4,
     "data": "6 (30)",
-    "1-level row header": "Yes",
+    "location": { "row": 11, "column": 4 },
+    "1-level row header": "Clinical",
     "2-level row header": "Smoking",
+    "3-level row header": "Yes",
     "column header": "Empagliflozin"
   },
   {
-    "row": 11,
-    "column": 5,
     "data": "3 (15)",
-    "1-level row header": "Yes",
+    "location": { "row": 11, "column": 5 },
+    "1-level row header": "Clinical",
     "2-level row header": "Smoking",
+    "3-level row header": "Yes",
     "column header": "Combination"
   },
   {
-    "row": 11,
-    "column": 6,
     "data": "–",
-    "1-level row header": "Yes",
+    "location": { "row": 11, "column": 6 },
+    "1-level row header": "Clinical",
     "2-level row header": "Smoking",
+    "3-level row header": "Yes",
+    "column header": "p value"
+  },
+
+  {
+    "data": "9 (45)",
+    "location": { "row": 12, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "No",
+    "column header": "Placebo"
+  },
+  {
+    "data": "5 (25)",
+    "location": { "row": 12, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "No",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "8 (40)",
+    "location": { "row": 12, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "No",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "5 (25)",
+    "location": { "row": 12, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "No",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 12, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "No",
+    "column header": "p value"
+  },
+
+  {
+    "data": "7 (35)",
+    "location": { "row": 13, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "Former",
+    "column header": "Placebo"
+  },
+  {
+    "data": "11 (55)",
+    "location": { "row": 13, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "Former",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "6 (30)",
+    "location": { "row": 13, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "Former",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "12 (60)",
+    "location": { "row": 13, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "Former",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 13, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "Smoking",
+    "3-level row header": "Former",
+    "column header": "p value"
+  },
+
+  {
+    "data": "9 (45)",
+    "location": { "row": 14, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc",
+    "column header": "Placebo"
+  },
+  {
+    "data": "12 (60)",
+    "location": { "row": 14, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "12 (60)",
+    "location": { "row": 14, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "13 (65)",
+    "location": { "row": 14, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.61",
+    "location": { "row": 14, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc",
+    "column header": "p value"
+  },
+
+  {
+    "data": "4 (20)",
+    "location": { "row": 15, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age <60 years",
+    "column header": "Placebo"
+  },
+  {
+    "data": "2 (10)",
+    "location": { "row": 15, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age <60 years",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "1 (5)",
+    "location": { "row": 15, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age <60 years",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "2 (10)",
+    "location": { "row": 15, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age <60 years",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 15, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age <60 years",
+    "column header": "p value"
+  },
+
+  {
+    "data": "5 (25)",
+    "location": { "row": 16, "column": 2 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age ≥60 years",
+    "column header": "Placebo"
+  },
+  {
+    "data": "10 (50)",
+    "location": { "row": 16, "column": 3 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age ≥60 years",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "11 (55)",
+    "location": { "row": 16, "column": 4 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age ≥60 years",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "11 (55)",
+    "location": { "row": 16, "column": 5 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age ≥60 years",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 16, "column": 6 },
+    "1-level row header": "Clinical",
+    "2-level row header": "History of CVDc and age ≥60 years",
+    "column header": "p value"
+  },
+
+  {
+    "data": "60 (51–67)",
+    "location": { "row": 18, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, mmol/mol",
+    "column header": "Placebo"
+  },
+  {
+    "data": "59 (52–62)",
+    "location": { "row": 18, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, mmol/mol",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "57 (52–60)",
+    "location": { "row": 18, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, mmol/mol",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "58 (50–74)",
+    "location": { "row": 18, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, mmol/mol",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.85",
+    "location": { "row": 18, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, mmol/mol",
+    "column header": "p value"
+  },
+
+  {
+    "data": "7.6 (6.8–8.3)",
+    "location": { "row": 19, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, %",
+    "column header": "Placebo"
+  },
+  {
+    "data": "7.5 (6.9–7.8)",
+    "location": { "row": 19, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, %",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "7.4 (6.9–7.6)",
+    "location": { "row": 19, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, %",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "7.5 (6.7–8.9)",
+    "location": { "row": 19, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, %",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 19, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "HbA1c, %",
+    "column header": "p value"
+  },
+
+  {
+    "data": "8.7 ± 2.5",
+    "location": { "row": 20, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Plasma glucose, mmol/l",
+    "column header": "Placebo"
+  },
+  {
+    "data": "8.4 ± 3.0",
+    "location": { "row": 20, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Plasma glucose, mmol/l",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "8.1 ± 2.2",
+    "location": { "row": 20, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Plasma glucose, mmol/l",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "9.5 ± 4.6",
+    "location": { "row": 20, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Plasma glucose, mmol/l",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.76",
+    "location": { "row": 20, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Plasma glucose, mmol/l",
+    "column header": "p value"
+  },
+
+  {
+    "data": "0.46 ± 0.04",
+    "location": { "row": 21, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Haematocrit, vol%",
+    "column header": "Placebo"
+  },
+  {
+    "data": "0.43 ± 0.04",
+    "location": { "row": 21, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Haematocrit, vol%",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "0.43 ± 0.04",
+    "location": { "row": 21, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Haematocrit, vol%",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "0.41 ± 0.05",
+    "location": { "row": 21, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Haematocrit, vol%",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.02",
+    "location": { "row": 21, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "Haematocrit, vol%",
+    "column header": "p value"
+  },
+
+  {
+    "data": "8 (6–11)",
+    "location": { "row": 22, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "P-EPO, U/l",
+    "column header": "Placebo"
+  },
+  {
+    "data": "10 (8–15)",
+    "location": { "row": 22, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "P-EPO, U/l",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "10 (7–15)",
+    "location": { "row": 22, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "P-EPO, U/l",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "11 (9–17)",
+    "location": { "row": 22, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "P-EPO, U/l",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.12",
+    "location": { "row": 22, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "P-EPO, U/l",
+    "column header": "p value"
+  },
+
+  {
+    "data": "1.58 (0.57–10.74)",
+    "location": { "row": 23, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR, mg/mmol",
+    "column header": "Placebo"
+  },
+  {
+    "data": "2.83 (0.9–9.49)",
+    "location": { "row": 23, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR, mg/mmol",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "1.24 (0.9–2.03)",
+    "location": { "row": 23, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR, mg/mmol",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "1.81 (0.79–7.23)",
+    "location": { "row": 23, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR, mg/mmol",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.76",
+    "location": { "row": 23, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR, mg/mmol",
+    "column header": "p value"
+  },
+
+  {
+    "data": "7 (35)",
+    "location": { "row": 24, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR 3–30 mg/mmol",
+    "column header": "Placebo"
+  },
+  {
+    "data": "8 (40)",
+    "location": { "row": 24, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR 3–30 mg/mmol",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "3 (15)",
+    "location": { "row": 24, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR 3–30 mg/mmol",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "7 (35)",
+    "location": { "row": 24, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR 3–30 mg/mmol",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 24, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR 3–30 mg/mmol",
+    "column header": "p value"
+  },
+
+  {
+    "data": "2 (10)",
+    "location": { "row": 25, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR >30 mg/mmol",
+    "column header": "Placebo"
+  },
+  {
+    "data": "0 (0)",
+    "location": { "row": 25, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR >30 mg/mmol",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "0 (0)",
+    "location": { "row": 25, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR >30 mg/mmol",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "1 (5)",
+    "location": { "row": 25, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR >30 mg/mmol",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 25, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "UACR >30 mg/mmol",
+    "column header": "p value"
+  },
+
+  {
+    "data": "91 ± 23a",
+    "location": { "row": 26, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR, ml/min per 1.73 m2",
+    "column header": "Placebo"
+  },
+  {
+    "data": "87 ± 21d",
+    "location": { "row": 26, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR, ml/min per 1.73 m2",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "88 ± 18",
+    "location": { "row": 26, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR, ml/min per 1.73 m2",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "81 ± 26",
+    "location": { "row": 26, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR, ml/min per 1.73 m2",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.43",
+    "location": { "row": 26, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR, ml/min per 1.73 m2",
+    "column header": "p value"
+  },
+
+  {
+    "data": "3 (15)",
+    "location": { "row": 27, "column": 2 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR <60 ml/min per 1.73 m2",
+    "column header": "Placebo"
+  },
+  {
+    "data": "1 (5)",
+    "location": { "row": 27, "column": 3 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR <60 ml/min per 1.73 m2",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "1 (5)",
+    "location": { "row": 27, "column": 4 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR <60 ml/min per 1.73 m2",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "5 (25)",
+    "location": { "row": 27, "column": 5 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR <60 ml/min per 1.73 m2",
+    "column header": "Combination"
+  },
+  {
+    "data": "–",
+    "location": { "row": 27, "column": 6 },
+    "1-level row header": "Biochemistry",
+    "2-level row header": "GFR <60 ml/min per 1.73 m2",
+    "column header": "p value"
+  },
+
+  {
+    "data": "18 (90)",
+    "location": { "row": 29, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "Metformin",
+    "column header": "Placebo"
+  },
+  {
+    "data": "17 (85)",
+    "location": { "row": 29, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "Metformin",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "18 (90)",
+    "location": { "row": 29, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "Metformin",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "20 (100)",
+    "location": { "row": 29, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "Metformin",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.40",
+    "location": { "row": 29, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "Metformin",
+    "column header": "p value"
+  },
+
+  {
+    "data": "4 (20)",
+    "location": { "row": 30, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "Insulin therapy",
+    "column header": "Placebo"
+  },
+  {
+    "data": "4 (20)",
+    "location": { "row": 30, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "Insulin therapy",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "6 (30)",
+    "location": { "row": 30, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "Insulin therapy",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "2 (10)",
+    "location": { "row": 30, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "Insulin therapy",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.47",
+    "location": { "row": 30, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "Insulin therapy",
+    "column header": "p value"
+  },
+
+  {
+    "data": "16 (80)",
+    "location": { "row": 31, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "Renin–angiotensin–aldosterone system blocker",
+    "column header": "Placebo"
+  },
+  {
+    "data": "15 (75)",
+    "location": { "row": 31, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "Renin–angiotensin–aldosterone system blocker",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "14 (70)",
+    "location": { "row": 31, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "Renin–angiotensin–aldosterone system blocker",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "18 (90)",
+    "location": { "row": 31, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "Renin–angiotensin–aldosterone system blocker",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.45",
+    "location": { "row": 31, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "Renin–angiotensin–aldosterone system blocker",
+    "column header": "p value"
+  },
+
+  {
+    "data": "11 (55)",
+    "location": { "row": 32, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "Calcium antagonist",
+    "column header": "Placebo"
+  },
+  {
+    "data": "9 (45)",
+    "location": { "row": 32, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "Calcium antagonist",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "9 (45)",
+    "location": { "row": 32, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "Calcium antagonist",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "7 (35)",
+    "location": { "row": 32, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "Calcium antagonist",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.66",
+    "location": { "row": 32, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "Calcium antagonist",
+    "column header": "p value"
+  },
+
+  {
+    "data": "4 (20)",
+    "location": { "row": 33, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "β-blocker",
+    "column header": "Placebo"
+  },
+  {
+    "data": "12 (60)",
+    "location": { "row": 33, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "β-blocker",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "6 (30)",
+    "location": { "row": 33, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "β-blocker",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "9 (45)",
+    "location": { "row": 33, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "β-blocker",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.05",
+    "location": { "row": 33, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "β-blocker",
+    "column header": "p value"
+  },
+
+  {
+    "data": "8 (40)",
+    "location": { "row": 34, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "Thiazide/loop diuretics",
+    "column header": "Placebo"
+  },
+  {
+    "data": "8 (40)",
+    "location": { "row": 34, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "Thiazide/loop diuretics",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "10 (50)",
+    "location": { "row": 34, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "Thiazide/loop diuretics",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "4 (20)",
+    "location": { "row": 34, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "Thiazide/loop diuretics",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.25",
+    "location": { "row": 34, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "Thiazide/loop diuretics",
+    "column header": "p value"
+  },
+
+  {
+    "data": "18 (90)",
+    "location": { "row": 35, "column": 2 },
+    "1-level row header": "Medication",
+    "2-level row header": "Statin",
+    "column header": "Placebo"
+  },
+  {
+    "data": "18 (90)",
+    "location": { "row": 35, "column": 3 },
+    "1-level row header": "Medication",
+    "2-level row header": "Statin",
+    "column header": "Semaglutide"
+  },
+  {
+    "data": "15 (75)",
+    "location": { "row": 35, "column": 4 },
+    "1-level row header": "Medication",
+    "2-level row header": "Statin",
+    "column header": "Empagliflozin"
+  },
+  {
+    "data": "20 (100)",
+    "location": { "row": 35, "column": 5 },
+    "1-level row header": "Medication",
+    "2-level row header": "Statin",
+    "column header": "Combination"
+  },
+  {
+    "data": "0.09",
+    "location": { "row": 35, "column": 6 },
+    "1-level row header": "Medication",
+    "2-level row header": "Statin",
     "column header": "p value"
   }
 ]
