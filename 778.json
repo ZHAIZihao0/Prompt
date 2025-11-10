@@ -4,7 +4,6 @@
     "column": 2,
     "row_header": "No. of participants",
     "column_header": "Placebo",
-    "section": "Clinical",
     "value": "20"
   },
   {
@@ -12,7 +11,6 @@
     "column": 3,
     "row_header": "No. of participants",
     "column_header": "Semaglutide",
-    "section": "Clinical",
     "value": "20"
   },
   {
@@ -20,7 +18,6 @@
     "column": 4,
     "row_header": "No. of participants",
     "column_header": "Empagliflozin",
-    "section": "Clinical",
     "value": "20"
   },
   {
@@ -28,7 +25,6 @@
     "column": 5,
     "row_header": "No. of participants",
     "column_header": "Combination",
-    "section": "Clinical",
     "value": "20"
   },
   {
@@ -36,7 +32,6 @@
     "column": 6,
     "row_header": "No. of participants",
     "column_header": "p value",
-    "section": "Clinical",
     "value": "–"
   },
   {
@@ -44,7 +39,6 @@
     "column": 2,
     "row_header": "Age, years",
     "column_header": "Placebo",
-    "section": "Clinical",
     "value": "64.6 ± 6.1"
   },
   {
@@ -52,7 +46,6 @@
     "column": 3,
     "row_header": "Age, years",
     "column_header": "Semaglutide",
-    "section": "Clinical",
     "value": "70.1 ± 6.8"
   },
   {
@@ -60,7 +53,6 @@
     "column": 4,
     "row_header": "Age, years",
     "column_header": "Empagliflozin",
-    "section": "Clinical",
     "value": "69.6 ± 6.0"
   },
   {
@@ -68,7 +60,6 @@
     "column": 5,
     "row_header": "Age, years",
     "column_header": "Combination",
-    "section": "Clinical",
     "value": "67.9 ± 6.2"
   },
   {
@@ -76,7 +67,41 @@
     "column": 6,
     "row_header": "Age, years",
     "column_header": "p value",
-    "section": "Clinical",
     "value": "0.03"
+  },
+  {
+    "row": 5,
+    "column": 2,
+    "row_header": "Male sex",
+    "column_header": "Placebo",
+    "value": "14 (70)"
+  },
+  {
+    "row": 5,
+    "column": 3,
+    "row_header": "Male sex",
+    "column_header": "Semaglutide",
+    "value": "17 (85)"
+  },
+  {
+    "row": 5,
+    "column": 4,
+    "row_header": "Male sex",
+    "column_header": "Empagliflozin",
+    "value": "13 (65)"
+  },
+  {
+    "row": 5,
+    "column": 5,
+    "row_header": "Male sex",
+    "column_header": "Combination",
+    "value": "17 (85)"
+  },
+  {
+    "row": 5,
+    "column": 6,
+    "row_header": "Male sex",
+    "column_header": "p value",
+    "value": "0.32"
   }
 ]
