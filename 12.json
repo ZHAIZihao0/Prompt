@@ -1,191 +1,182 @@
 [
   {
-    "data_cell": "62 (52.5%)",
-    "location": {"row": 2, "column": 2},
-    "1-level row header": "Male, n (%)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "62 (52.5%)",
+    "location": { "row": 2, "column": 2 },
+    "row header": "Male, n (%)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "63 (53.4%)",
-    "location": {"row": 2, "column": 3},
-    "1-level row header": "Male, n (%)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "63 (53.4%)",
+    "location": { "row": 2, "column": 3 },
+    "row header": "Male, n (%)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "0.43",
-    "location": {"row": 2, "column": 4},
-    "1-level row header": "Male, n (%)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "56 (47.5%)",
-    "location": {"row": 3, "column": 2},
-    "1-level row header": "Female, n (%)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "0.43",
+    "location": { "row": 2, "column": 4 },
+    "row header": "Male, n (%)",
+    "column header": "P value"
   },
   {
-    "data_cell": "55 (46.6%)",
-    "location": {"row": 3, "column": 3},
-    "1-level row header": "Female, n (%)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "56 (47.5%)",
+    "location": { "row": 3, "column": 2 },
+    "row header": "Female, n (%)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "0.37",
-    "location": {"row": 3, "column": 4},
-    "1-level row header": "Female, n (%)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "51.7 (8.01)",
-    "location": {"row": 4, "column": 2},
-    "1-level row header": "Age, years, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "55 (46.6%)",
+    "location": { "row": 3, "column": 3 },
+    "row header": "Female, n (%)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "49.6 (9.54)",
-    "location": {"row": 4, "column": 3},
-    "1-level row header": "Age, years, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "0.37",
+    "location": { "row": 3, "column": 4 },
+    "row header": "Female, n (%)",
+    "column header": "P value"
   },
   {
-    "data_cell": "0.0787",
-    "location": {"row": 4, "column": 4},
-    "1-level row header": "Age, years, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "67.1 (12.87)",
-    "location": {"row": 5, "column": 2},
-    "1-level row header": "Weight, kg, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "51.7 (8.01)",
+    "location": { "row": 4, "column": 2 },
+    "row header": "Age, years, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "65.5 (10.94)",
-    "location": {"row": 5, "column": 3},
-    "1-level row header": "Weight, kg, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "49.6 (9.54)",
+    "location": { "row": 4, "column": 3 },
+    "row header": "Age, years, mean (SD)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "0.3074",
-    "location": {"row": 5, "column": 4},
-    "1-level row header": "Weight, kg, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "162.8 (8.23)",
-    "location": {"row": 6, "column": 2},
-    "1-level row header": "Height, cm, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "0.0787",
+    "location": { "row": 4, "column": 4 },
+    "row header": "Age, years, mean (SD)",
+    "column header": "P value"
   },
   {
-    "data_cell": "161.5 (7.79)",
-    "location": {"row": 6, "column": 3},
-    "1-level row header": "Height, cm, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "67.1 (12.87)",
+    "location": { "row": 5, "column": 2 },
+    "row header": "Weight, kg, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "0.2081",
-    "location": {"row": 6, "column": 4},
-    "1-level row header": "Height, cm, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "25.2 (3.81)",
-    "location": {"row": 7, "column": 2},
-    "1-level row header": "BMI, kg/m2, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "65.5 (10.94)",
+    "location": { "row": 5, "column": 3 },
+    "row header": "Weight, kg, mean (SD)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "25.1 (3.55)",
-    "location": {"row": 7, "column": 3},
-    "1-level row header": "BMI, kg/m2, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "0.3074",
+    "location": { "row": 5, "column": 4 },
+    "row header": "Weight, kg, mean (SD)",
+    "column header": "P value"
   },
   {
-    "data_cell": "0.772",
-    "location": {"row": 7, "column": 4},
-    "1-level row header": "BMI, kg/m2, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "36.8 (3.62)",
-    "location": {"row": 8, "column": 2},
-    "1-level row header": "Waist circumference, inches, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "162.8 (8.23)",
+    "location": { "row": 6, "column": 2 },
+    "row header": "Height, cm, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "36.2 (3.68)",
-    "location": {"row": 8, "column": 3},
-    "1-level row header": "Waist circumference, inches, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "161.5 (7.79)",
+    "location": { "row": 6, "column": 3 },
+    "row header": "Height, cm, mean (SD)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "0.2106",
-    "location": {"row": 8, "column": 4},
-    "1-level row header": "Waist circumference, inches, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "0.9 (0.07)",
-    "location": {"row": 9, "column": 2},
-    "1-level row header": "Waist-to-hip ratio, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "0.2081",
+    "location": { "row": 6, "column": 4 },
+    "row header": "Height, cm, mean (SD)",
+    "column header": "P value"
   },
   {
-    "data_cell": "0.9 (0.10)",
-    "location": {"row": 9, "column": 3},
-    "1-level row header": "Waist-to-hip ratio, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "25.2 (3.81)",
+    "location": { "row": 7, "column": 2 },
+    "row header": "BMI, kg/m2, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "0.3733",
-    "location": {"row": 9, "column": 4},
-    "1-level row header": "Waist-to-hip ratio, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "9.21 (0.78)",
-    "location": {"row": 10, "column": 2},
-    "1-level row header": "HbA1C, %, mean (SD)",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "25.1 (3.55)",
+    "location": { "row": 7, "column": 3 },
+    "row header": "BMI, kg/m2, mean (SD)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "9.25 (0.78)",
-    "location": {"row": 10, "column": 3},
-    "1-level row header": "HbA1C, %, mean (SD)",
-    "1-level column header": "MS (N=118)"
+    "data cell": "0.772",
+    "location": { "row": 7, "column": 4 },
+    "row header": "BMI, kg/m2, mean (SD)",
+    "column header": "P value"
   },
   {
-    "data_cell": "0.7181",
-    "location": {"row": 10, "column": 4},
-    "1-level row header": "HbA1C, %, mean (SD)",
-    "1-level column header": "P value"
-  },
-
-  {
-    "data_cell": "41.1 (33.47), 2–169.4",
-    "location": {"row": 11, "column": 2},
-    "1-level row header": "Duration of diabetes, months, mean (SD), range",
-    "1-level column header": "FDC of MSP (N=118)"
+    "data cell": "36.8 (3.62)",
+    "location": { "row": 8, "column": 2 },
+    "row header": "Waist circumference, inches, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
   },
   {
-    "data_cell": "36.5 (42.86), 1.5–360.6",
-    "location": {"row": 11, "column": 3},
-    "1-level row header": "Duration of diabetes, months, mean (SD), range",
-    "1-level column header": "MS (N=118)"
+    "data cell": "36.2 (3.68)",
+    "location": { "row": 8, "column": 3 },
+    "row header": "Waist circumference, inches, mean (SD)",
+    "column header": "MS (N = 118)"
   },
   {
-    "data_cell": "0.3524",
-    "location": {"row": 11, "column": 4},
-    "1-level row header": "Duration of diabetes, months, mean (SD), range",
-    "1-level column header": "P value"
+    "data cell": "0.2106",
+    "location": { "row": 8, "column": 4 },
+    "row header": "Waist circumference, inches, mean (SD)",
+    "column header": "P value"
+  },
+  {
+    "data cell": "0.9 (0.07)",
+    "location": { "row": 9, "column": 2 },
+    "row header": "Waist-to-hip ratio, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
+  },
+  {
+    "data cell": "0.9 (0.10)",
+    "location": { "row": 9, "column": 3 },
+    "row header": "Waist-to-hip ratio, mean (SD)",
+    "column header": "MS (N = 118)"
+  },
+  {
+    "data cell": "0.3733",
+    "location": { "row": 9, "column": 4 },
+    "row header": "Waist-to-hip ratio, mean (SD)",
+    "column header": "P value"
+  },
+  {
+    "data cell": "9.21 (0.78)",
+    "location": { "row": 10, "column": 2 },
+    "row header": "HbA1C, %, mean (SD)",
+    "column header": "FDC of MSP (N = 118)"
+  },
+  {
+    "data cell": "9.25 (0.78)",
+    "location": { "row": 10, "column": 3 },
+    "row header": "HbA1C, %, mean (SD)",
+    "column header": "MS (N = 118)"
+  },
+  {
+    "data cell": "0.7181",
+    "location": { "row": 10, "column": 4 },
+    "row header": "HbA1C, %, mean (SD)",
+    "column header": "P value"
+  },
+  {
+    "data cell": "41.1 (33.47), 2–169.4",
+    "location": { "row": 11, "column": 2 },
+    "row header": "Duration of diabetes, months, mean (SD), range",
+    "column header": "FDC of MSP (N = 118)"
+  },
+  {
+    "data cell": "36.5 (42.86), 1.5–360.6",
+    "location": { "row": 11, "column": 3 },
+    "row header": "Duration of diabetes, months, mean (SD), range",
+    "column header": "MS (N = 118)"
+  },
+  {
+    "data cell": "0.3524",
+    "location": { "row": 11, "column": 4 },
+    "row header": "Duration of diabetes, months, mean (SD), range",
+    "column header": "P value"
   }
 ]
