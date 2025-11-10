@@ -115,7 +115,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -235,7 +235,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -355,7 +355,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -374,7 +374,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "BMI, kg/m 2",
+        "value": "BMI, kg/m2",
         "confidence": "high"
       }
     },
@@ -398,7 +398,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "BMI, kg/m 2",
+        "value": "BMI, kg/m2",
         "confidence": "high"
       }
     },
@@ -422,7 +422,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "BMI, kg/m 2",
+        "value": "BMI, kg/m2",
         "confidence": "high"
       }
     },
@@ -446,7 +446,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "BMI, kg/m 2",
+        "value": "BMI, kg/m2",
         "confidence": "high"
       }
     },
@@ -470,12 +470,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "BMI, kg/m 2",
+        "value": "BMI, kg/m2",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -595,13 +595,13 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
   {
     "data cell": {
-      "value": "139 ± 13 a",
+      "value": "139 ± 13a",
       "confidence": "high"
     },
     "location": {
@@ -625,7 +625,7 @@
   },
   {
     "data cell": {
-      "value": "131 ± 17 b",
+      "value": "131 ± 17b",
       "confidence": "high"
     },
     "location": {
@@ -649,7 +649,7 @@
   },
   {
     "data cell": {
-      "value": "139 ± 15 a",
+      "value": "139 ± 15a",
       "confidence": "high"
     },
     "location": {
@@ -715,13 +715,13 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
   {
     "data cell": {
-      "value": "78 ± 10 a",
+      "value": "78 ± 10a",
       "confidence": "high"
     },
     "location": {
@@ -745,7 +745,7 @@
   },
   {
     "data cell": {
-      "value": "73 ± 8 b",
+      "value": "73 ± 8b",
       "confidence": "high"
     },
     "location": {
@@ -769,7 +769,7 @@
   },
   {
     "data cell": {
-      "value": "77 ± 6 a",
+      "value": "77 ± 6a",
       "confidence": "high"
     },
     "location": {
@@ -835,7 +835,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -955,7 +955,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1095,7 +1095,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1235,7 +1235,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1375,7 +1375,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1394,7 +1394,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c",
+        "value": "History of CVDc",
         "confidence": "high"
       }
     },
@@ -1418,7 +1418,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c",
+        "value": "History of CVDc",
         "confidence": "high"
       }
     },
@@ -1442,7 +1442,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c",
+        "value": "History of CVDc",
         "confidence": "high"
       }
     },
@@ -1466,7 +1466,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c",
+        "value": "History of CVDc",
         "confidence": "high"
       }
     },
@@ -1490,12 +1490,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c",
+        "value": "History of CVDc",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1514,7 +1514,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age <60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1538,7 +1538,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age <60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1562,7 +1562,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age <60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1586,7 +1586,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age <60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1610,12 +1610,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age <60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1634,7 +1634,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age ≥60 years",
+        "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
     },
@@ -1658,7 +1658,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age ≥60 years",
+        "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
     },
@@ -1682,7 +1682,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age ≥60 years",
+        "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
     },
@@ -1706,7 +1706,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age ≥60 years",
+        "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
     },
@@ -1730,12 +1730,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVD c and age ≥60 years",
+        "value": "History of CVDc and age ≥60 years",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1754,7 +1754,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , mmol/mol",
+        "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
     },
@@ -1778,7 +1778,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , mmol/mol",
+        "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
     },
@@ -1802,7 +1802,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , mmol/mol",
+        "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
     },
@@ -1826,7 +1826,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , mmol/mol",
+        "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
     },
@@ -1850,12 +1850,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , mmol/mol",
+        "value": "HbA1c, mmol/mol",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -1874,7 +1874,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , %",
+        "value": "HbA1c, %",
         "confidence": "high"
       }
     },
@@ -1898,7 +1898,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , %",
+        "value": "HbA1c, %",
         "confidence": "high"
       }
     },
@@ -1922,7 +1922,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , %",
+        "value": "HbA1c, %",
         "confidence": "high"
       }
     },
@@ -1946,7 +1946,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , %",
+        "value": "HbA1c, %",
         "confidence": "high"
       }
     },
@@ -1970,12 +1970,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "HbA 1c , %",
+        "value": "HbA1c, %",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2095,7 +2095,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2215,7 +2215,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2335,7 +2335,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2455,7 +2455,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2575,7 +2575,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2695,13 +2695,13 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
   {
     "data cell": {
-      "value": "91 ± 23 a",
+      "value": "91 ± 23a",
       "confidence": "high"
     },
     "location": {
@@ -2714,7 +2714,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR, ml/min per 1.73 m 2",
+        "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2725,7 +2725,7 @@
   },
   {
     "data cell": {
-      "value": "87 ± 21 d",
+      "value": "87 ± 21d",
       "confidence": "high"
     },
     "location": {
@@ -2738,7 +2738,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR, ml/min per 1.73 m 2",
+        "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2762,7 +2762,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR, ml/min per 1.73 m 2",
+        "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2786,7 +2786,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR, ml/min per 1.73 m 2",
+        "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2810,12 +2810,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR, ml/min per 1.73 m 2",
+        "value": "GFR, ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -2834,7 +2834,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m 2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2858,7 +2858,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m 2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2882,7 +2882,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m 2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2906,7 +2906,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m 2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2930,12 +2930,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR <60 ml/min per 1.73 m 2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3055,7 +3055,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3175,7 +3175,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3295,7 +3295,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3415,7 +3415,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3535,7 +3535,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3655,7 +3655,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   },
@@ -3775,7 +3775,7 @@
       }
     },
     "column header": {
-      "value": "p value",
+      "value": "pvalue",
       "confidence": "high"
     }
   }
