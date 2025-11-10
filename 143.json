@@ -1,83 +1,122 @@
 [
   {
-    "row_index": 1,
-    "column_index": 2,
-    "cell_value": "60.3 ± 9.6",
-    "1-level_row_header": "Characteristic",
-    "2-level_row_header": "Age, y",
-    "1-level_column_header": "AMPLITUDE-D",
-    "2-level_column_header": "Efpeglenatide 4 mg (N=303)"
+    "row": 1,
+    "column": 2,
+    "value": "60.3 ± 9.6",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-D",
+    "2-level column header": "Efpeglenatide 4 mg (N = 303)"
   },
   {
-    "row_index": 1,
-    "column_index": 3,
-    "cell_value": "60.0 ± 10.1",
-    "1-level_row_header": "Characteristic",
-    "2-level_row_header": "Age, y",
-    "1-level_column_header": "AMPLITUDE-D",
-    "2-level_column_header": "Efpeglenatide 6 mg (N=302)"
+    "row": 1,
+    "column": 3,
+    "value": "60.0 ± 10.1",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-D",
+    "2-level column header": "Efpeglenatide 6 mg (N = 302)"
   },
   {
-    "row_index": 1,
-    "column_index": 4,
-    "cell_value": "59.4 ± 10.1",
-    "1-level_row_header": "Characteristic",
-    "2-level_row_header": "Age, y",
-    "1-level_column_header": "AMPLITUDE-D",
-    "2-level_column_header": "Dulaglutide 1.5 mg (N=303)"
+    "row": 1,
+    "column": 4,
+    "value": "59.4 ± 10.1",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-D",
+    "2-level column header": "Dulaglutide 1.5 mg (N = 303)"
   },
   {
-    "row_index": 3,
-    "column_index": 2,
-    "cell_value": "271 (89.4)",
-    "1-level_row_header": "Race, n (%)",
-    "2-level_row_header": "White",
-    "1-level_column_header": "AMPLITUDE-D",
-    "2-level_column_header": "Efpeglenatide 4 mg (N=303)"
+    "row": 1,
+    "column": 5,
+    "value": "59.1 ± 10.7",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-L",
+    "2-level column header": "Efpeglenatide 2 mg (N = 92)"
   },
   {
-    "row_index": 3,
-    "column_index": 5,
-    "cell_value": "49 (53.3)",
-    "1-level_row_header": "Race, n (%)",
-    "2-level_row_header": "White",
-    "1-level_column_header": "AMPLITUDE-L",
-    "2-level_column_header": "Efpeglenatide 2 mg (N=92)"
+    "row": 1,
+    "column": 6,
+    "value": "60.6 ± 11.5",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-L",
+    "2-level column header": "Efpeglenatide 4 mg (N = 93)"
   },
   {
-    "row_index": 5,
-    "column_index": 9,
-    "cell_value": "26 (33.8)",
-    "1-level_row_header": "Race, n (%)",
-    "2-level_row_header": "Asian",
-    "1-level_column_header": "AMPLITUDE-S",
-    "2-level_column_header": "Efpeglenatide 4 mg (N=77)"
+    "row": 1,
+    "column": 7,
+    "value": "61.6 ± 10.3",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-L",
+    "2-level column header": "Efpeglenatide 6 mg (N = 93)"
   },
   {
-    "row_index": 10,
-    "column_index": 2,
-    "cell_value": "95.2 ± 19.9",
-    "1-level_row_header": "Characteristic",
-    "2-level_row_header": "Mean body weight, kg",
-    "1-level_column_header": "AMPLITUDE-D",
-    "2-level_column_header": "Efpeglenatide 4 mg (N=303)"
+    "row": 1,
+    "column": 8,
+    "value": "58.9 ± 10.7",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-L",
+    "2-level column header": "Placebo (N = 92)"
   },
   {
-    "row_index": 14,
-    "column_index": 5,
-    "cell_value": "37 (40.2)",
-    "1-level_row_header": "BMI (kg/m2), n (%)",
-    "2-level_row_header": "≥ 30 to < 40",
-    "1-level_column_header": "AMPLITUDE-L",
-    "2-level_column_header": "Efpeglenatide 2 mg (N=92)"
+    "row": 1,
+    "column": 9,
+    "value": "60.1 ± 10.9",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-S",
+    "2-level column header": "Efpeglenatide 2 mg (N = 78)"
   },
   {
-    "row_index": 20,
-    "column_index": 9,
-    "cell_value": "15 (19.5)",
-    "1-level_row_header": "eGFR (mL/min/1.73m2), n (%)",
-    "2-level_row_header": "≥ 60 and < 90",
-    "1-level_column_header": "AMPLITUDE-S",
-    "2-level_column_header": "Efpeglenatide 4 mg (N=77)"
+    "row": 1,
+    "column": 10,
+    "value": "57.9 ± 10.5",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-S",
+    "2-level column header": "Efpeglenatide 4 mg (N = 77)"
+  },
+  {
+    "row": 1,
+    "column": 11,
+    "value": "58.8 ± 11.5",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-S",
+    "2-level column header": "Efpeglenatide 6 mg (N = 78)"
+  },
+  {
+    "row": 1,
+    "column": 12,
+    "value": "58.9 ± 10.6",
+    "1-level row header": "Age, y",
+    "1-level column header": "AMPLITUDE-S",
+    "2-level column header": "Placebo (N = 79)"
+  },
+  {
+    "row": 2,
+    "column": 2,
+    "value": "161 (53.1)",
+    "1-level row header": "Male, n (%)",
+    "1-level column header": "AMPLITUDE-D",
+    "2-level column header": "Efpeglenatide 4 mg (N = 303)"
+  },
+  {
+    "row": 2,
+    "column": 3,
+    "value": "145 (48.0)",
+    "1-level row header": "Male, n (%)",
+    "1-level column header": "AMPLITUDE-D",
+    "2-level column header": "Efpeglenatide 6 mg (N = 302)"
+  },
+  {
+    "row": 2,
+    "column": 4,
+    "value": "150 (49.5)",
+    "1-level row header": "Male, n (%)",
+    "1-level column header": "AMPLITUDE-D",
+    "2-level column header": "Dulaglutide 1.5 mg (N = 303)"
+  },
+  {
+    "row": 2,
+    "column": 5,
+    "value": "50 (54.3)",
+    "1-level row header": "Male, n (%)",
+    "1-level column header": "AMPLITUDE-L",
+    "2-level column header": "Efpeglenatide 2 mg (N = 92)"
   }
 ]
