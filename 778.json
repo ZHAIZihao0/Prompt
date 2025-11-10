@@ -1,0 +1,61 @@
+{
+  "Table Title": "Table 1 Baseline characteristics by treatment group",
+  "Source": "Separate and combined effects of semaglutide and empagliflozin on kidney oxygenation and perfusion in people with type 2 diabetes: a randomised trial",
+  "Data": [
+    {
+      "Category": "Clinical",
+      "Characteristic": "No. of participants",
+      "Values": {
+        "Placebo": "20",
+        "Semaglutide": "20",
+        "Empagliflozin": "20",
+        "Combination": "20",
+        "p value": "–"
+      }
+    },
+    {
+      "Category": "Clinical",
+      "Characteristic": "Age, years",
+      "Values": {
+        "Placebo": "64.6 ± 6.1",
+        "Semaglutide": "70.1 ± 6.8",
+        "Empagliflozin": "69.6 ± 6.0",
+        "Combination": "67.9 ± 6.2",
+        "p value": "0.03"
+      }
+    },
+    {
+      "Category": "Clinical",
+      "Characteristic": "Male sex",
+      "Values": {
+        "Placebo": "14 (70)",
+        "Semaglutide": "17 (85)",
+        "Empagliflozin": "13 (65)",
+        "Combination": "17 (85)",
+        "p value": "0.32"
+      }
+    },
+    {
+      "Category": "Clinical",
+      "Characteristic": "BMI, kg/m2",
+      "Values": {
+        "Placebo": "33 ± 6",
+        "Semaglutide": "32 ± 5",
+        "Empagliflozin": "33 ± 6",
+        "Combination": "31 ± 5",
+        "p value": "0.38"
+      }
+    },
+    {
+      "Category": "Clinical",
+      "Characteristic": "Duration of diabetes, years",
+      "Values": {
+        "Placebo": "8.0 (4.0–10.0)",
+        "Semaglutide": "8.5 (3.5–16.0)",
+        "Empagliflozin": "10.0 (5.0–18.5)",
+        "Combination": "6.0 (2.3–12.0)",
+        "p value": "0.46"
+      }
+    }
+  ]
+}
