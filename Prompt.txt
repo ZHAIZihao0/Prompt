@@ -1,1 +1,1 @@
-There is a html format table, identify the relationships between each data cell and its related row header and column header, extract the information and output as a json file: 
+There is a html format table, identify the relationships between each data cell and its related row header and column header, extract the information and output as a json file. Independently output each data cell along with its related headers.
