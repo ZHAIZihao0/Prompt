@@ -46,7 +46,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -124,7 +124,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -176,7 +176,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -254,7 +254,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -306,7 +306,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -384,7 +384,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -436,7 +436,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -514,7 +514,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -566,7 +566,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -644,7 +644,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -696,7 +696,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -774,7 +774,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -826,7 +826,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -904,7 +904,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -915,7 +915,7 @@
       "confidence": "high"
     },
     "location": {
-      "value": "Row 8, Column 5",
+      "value": "Row 8, Column 1",
       "confidence": "high"
     },
     "row header": {
@@ -930,7 +930,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -950,8 +950,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Yes",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -976,13 +980,17 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Yes",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1002,8 +1010,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Yes",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1028,8 +1040,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Yes",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1054,13 +1070,17 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Yes",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Yes",
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1080,8 +1100,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "No",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1106,13 +1130,17 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "No",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1132,8 +1160,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "No",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1158,8 +1190,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "No",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1184,13 +1220,17 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "No",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "No",
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1210,8 +1250,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Former",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1236,13 +1280,17 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Former",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1262,8 +1310,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Former",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1288,8 +1340,12 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Former",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
@@ -1314,13 +1370,17 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "Former",
+        "value": "Smoking",
         "confidence": "high"
+      },
+      "row header level-3": {
+        "value": "Former",
+        "confidence": "medium"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1372,7 +1432,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1450,7 +1510,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1470,7 +1530,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVDc and age \\<60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1496,13 +1556,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVDc and age \\<60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1522,7 +1582,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVDc and age \\<60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1548,7 +1608,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVDc and age \\<60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
@@ -1574,13 +1634,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "History of CVDc and age \\<60 years",
+        "value": "History of CVDc and age <60 years",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1632,7 +1692,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1710,7 +1770,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1762,7 +1822,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1840,7 +1900,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -1892,7 +1952,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -1970,7 +2030,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2022,7 +2082,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2100,7 +2160,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2152,7 +2212,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2230,7 +2290,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2282,7 +2342,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2360,7 +2420,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2412,7 +2472,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2490,7 +2550,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2542,7 +2602,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2620,7 +2680,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2640,7 +2700,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "UACR \\>30 mg/mmol",
+        "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
     },
@@ -2666,13 +2726,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "UACR \\>30 mg/mmol",
+        "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2692,7 +2752,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "UACR \\>30 mg/mmol",
+        "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
     },
@@ -2718,7 +2778,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "UACR \\>30 mg/mmol",
+        "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
     },
@@ -2744,13 +2804,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "UACR \\>30 mg/mmol",
+        "value": "UACR >30 mg/mmol",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2802,7 +2862,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2880,7 +2940,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -2900,7 +2960,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR \\<60 ml/min per 1.73 m2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2926,13 +2986,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR \\<60 ml/min per 1.73 m2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -2952,7 +3012,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR \\<60 ml/min per 1.73 m2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -2978,7 +3038,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR \\<60 ml/min per 1.73 m2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
@@ -3004,13 +3064,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "GFR \\<60 ml/min per 1.73 m2",
+        "value": "GFR <60 ml/min per 1.73 m2",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3062,7 +3122,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3140,7 +3200,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3192,7 +3252,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3270,7 +3330,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3322,7 +3382,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3400,7 +3460,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3452,7 +3512,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3530,7 +3590,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3550,7 +3610,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "β\\-blocker",
+        "value": "β-blocker",
         "confidence": "high"
       }
     },
@@ -3576,13 +3636,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "β\\-blocker",
+        "value": "β-blocker",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3602,7 +3662,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "β\\-blocker",
+        "value": "β-blocker",
         "confidence": "high"
       }
     },
@@ -3628,7 +3688,7 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "β\\-blocker",
+        "value": "β-blocker",
         "confidence": "high"
       }
     },
@@ -3654,13 +3714,13 @@
         "confidence": "high"
       },
       "row header level-2": {
-        "value": "β\\-blocker",
+        "value": "β-blocker",
         "confidence": "high"
       }
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3712,7 +3772,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3790,7 +3850,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
@@ -3842,7 +3902,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "Semaglutide",
+        "value": "Semaglutid",
         "confidence": "high"
       }
     }
@@ -3920,7 +3980,7 @@
     },
     "column header": {
       "column header level-1": {
-        "value": "p value",
+        "value": "p valu",
         "confidence": "high"
       }
     }
