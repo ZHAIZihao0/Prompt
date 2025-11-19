@@ -340,7 +340,7 @@
     },
     "row header": {
       "row header level-1": {
-        "value": "BMI, kg/m2, mean (SD)",
+        "value": "BMI, kg/m, mean (SD)",
         "confidence": "high"
       }
     },
@@ -362,7 +362,7 @@
     },
     "row header": {
       "row header level-1": {
-        "value": "BMI, kg/m2, mean (SD)",
+        "value": "BMI, kg/m, mean (SD)",
         "confidence": "high"
       }
     },
@@ -384,7 +384,7 @@
     },
     "row header": {
       "row header level-1": {
-        "value": "BMI, kg/m2, mean (SD)",
+        "value": "BMI, kg/m, mean (SD)",
         "confidence": "high"
       }
     },
