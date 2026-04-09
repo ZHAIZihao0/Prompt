@@ -66,8 +66,8 @@ class TableCell(BaseModel):
 
 def process_html_table(table_file_path):
     # Example and Input table
-    example_html = read_file("D:/PhDProject/TableProject/Example/Example2.html")
-    example_output = read_file("D:/PhDProject/TableProject/Example/Example2Output.json")
+    example_html = read_file("") # Example input path
+    example_output = read_file("") # Example output path
     input_table = read_table(table_file_path)
 
     # Prompt
@@ -93,7 +93,7 @@ def process_html_table(table_file_path):
   """
 
     # Model and Parameter
-    client = genai.Client(api_key="AIzaSyCkjkLVYgdsQvWfpr3hf6uwiqPXePWzIMg")
+    client = genai.Client(api_key="") #API key
 
     print(f"Processing: {table_file_path}")
     adapter = TypeAdapter(List[TableCell])
@@ -138,7 +138,7 @@ def process_html_table(table_file_path):
     output_name = f"{input_name}.json"
 
     # Save as JSON file
-    output_dir = Path("D:/PhDProject/TableProject/Output")
+    output_dir = Path("") #Output JSON folder path
     try:
         parsed = json.loads(json_text)
         output_path = output_dir / output_name
@@ -158,7 +158,7 @@ def process_html_table(table_file_path):
 
 
 if __name__ == "__main__":
-    folder_path = 'D:/PhDProject/TableProject/HTML'
+    folder_path = '' # Input tables folder path
     html_files = [f for f in os.listdir(folder_path)
                   if f.endswith(('.html', '.htm'))]
     for file in html_files:
