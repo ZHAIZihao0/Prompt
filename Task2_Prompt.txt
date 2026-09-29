@@ -78,9 +78,22 @@ unit_mapping = {
       "unitless": "Others",  #
       "units/week": "Others",  #
   }
-type_mapping = ["count", "percentage", "interquartile range", "lower quartile", "upper quartile", "range_min", "range_max",
-                  "mean", "median", "p value", "ratio", "standard deviation", "test statistic", "total number"]
-datatype = json.dumps(type_mapping,ensure_ascii=False)
+type_mapping = {
+      "count": "Number of observations, participants, events, or items in a group/category.",
+      "percentage": "A fraction or ratio with 100 understood as the denominator.",
+      "interquartile range": "The difference between the 3d and 1st quartiles.",
+      "lower quartile": "The first quartile.",
+      "upper quartile": "The Third quartile.",
+      "range_min": "The lowest numerical value in a range presentation.",
+      "range_max": "The highest numerical value in a range presentation.",
+      "mean": "The sum of a set of values divided by the number of values in the set.",
+      "median": "The value which has an equal number of values greater and less than it.",
+      "p value": "The probability that the observed data could have arisen by chance when the interventions did not differ.",
+      "ratio": "An indication of a relationship in quantity, amount, or size between two entities or activities.",
+      "standard deviation": "Indicator of the relative variability of a variable around its mean.",
+      "test statistic": "A test used to determine the statistical significance of an observation.",
+      "denominator": "Total number used as the denominator of a proportion."
+  }
 
 prompt = f"""<system>
 You are a data extraction and semantic analysis specialist. Your task is to parse a baseline characteristics table stored as a JSON array, extract numerical data from each cell, infer their statistical types and units based on the associated row headers, column headers and footnotes, and map the units to standardized ontology codes from the NCI Thesaurus (OBO Edition).
@@ -93,7 +106,7 @@ A JSON file containing non-empty data cells extracted from a baseline characteri
 <instructions>
 Follow these steps sequentially and ensure the final output is strictly based on the reasoning process.
 1. Extract numerical values: Analyze the “data_cell” and extract all distinct numeric values, split them into individual values, order the values sequentially as they appear in the “data_cell” and label them value1, value2, ..., valuen.
-2. Infer the statistical type for each value: Use the combined context of the row headers, column headers and footnotes to determine what each value represents. For example, if headers contain "n (%)", the first value is "count", and the second is "percentage". If headers contain "mean (SD)", the first value is "mean", and the second is "standard deviation". After inferring the type, you MUST map it to one of the following standard type formats. If the inferred type cannot be mapped to any standard format, output as “Others”. Standard type formats: {datatype}
+2. Infer the statistical type for each value: Use the combined context of the row headers, column headers and footnotes to determine what each value represents. For example, if headers contain "n (%)", the first value is "count", and the second is "percentage". If headers contain "mean (SD)", the first value is "mean", and the second is "standard deviation". After inferring the type, you MUST map it to one of the following standard type formats. If the inferred type cannot be mapped to any standard format, output as “Others”. Standard type formats and their definition: {type_mapping}
 3. Infer the unit of measurement for each value: Infer the unit from the row headers, column headers text and footnotes. For example, "FPG, mmol/L", the unit is "mmol/L". For counts/percentages without a physical unit, the unit is "count" or "percent". If the row and column headers do not contain any unit, attempt to infer from the table footnote. If still no unit can be inferred, assign the unit as "Others".
 4. Map the Inferred Unit to NCIT code: There is an ontology list that maps the possible units in the table to their corresponding codes. For each inferred unit, map it to one of the following standard NCIT codes according to the list below. If the inferred unit cannot be matched to any code in the list, output as “Others”. Standard unit codes: {unit_mapping}
 5. Generate the Output JSON: Process every object in the input JSON array. For each object, output a JSON object that verbatim includes:
