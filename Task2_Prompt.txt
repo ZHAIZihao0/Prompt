@@ -79,7 +79,7 @@ unit_mapping = {
       "units/week": "Others",  #
   }
 type_mapping = ["count", "percentage", "interquartile range", "lower quartile", "upper quartile", "range_min", "range_max",
-                  "mean", "median", "p value", "ratio", "standard deviation", "test statistic"]
+                  "mean", "median", "p value", "ratio", "standard deviation", "test statistic", "total number"]
 datatype = json.dumps(type_mapping,ensure_ascii=False)
 
 prompt = f"""<system>
