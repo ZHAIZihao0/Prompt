@@ -91,8 +91,7 @@ type_mapping = {
       "p value": "The probability that the observed data could have arisen by chance when the interventions did not differ.",
       "ratio": "An indication of a relationship in quantity, amount, or size between two entities or activities.",
       "standard deviation": "Indicator of the relative variability of a variable around its mean.",
-      "test statistic": "A test used to determine the statistical significance of an observation.",
-      "denominator": "Total number used as the denominator of a proportion."
+      "test statistic": "A test used to determine the statistical significance of an observation."
   }
 
 prompt = f"""<system>
