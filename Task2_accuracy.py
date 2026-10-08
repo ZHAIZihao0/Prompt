@@ -7,16 +7,20 @@ import re
 # Normalize data cell content
 def normalize_text(text):
     text = re.sub(r'\s+', '', text)
+    text = re.sub(r'(?<![\d.])\.(\d)', r'0.\1', text)
     symbol_replacements = {
         '>': '',
         '<': '',
-        '-': '',
         '%': '',
         ',': '',
+        '\b': '',
+        '·': '.',
+        '\u2013': '-',
+        '\u2212': '-',
+        '\u2014': '-'
     }
     for output_pattern, standard_pattern in symbol_replacements.items():
         text = text.replace(output_pattern, standard_pattern)
-
     return text
 
 
@@ -204,7 +208,6 @@ def processfiles(json_folder, llm_folder):
 
 
 if __name__ == "__main__":
-
     correct_folder = ""  # Input gold standard folder
     llm_folder = ""  # Input model output folder
 
