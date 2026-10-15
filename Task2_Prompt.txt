@@ -104,17 +104,20 @@ A JSON file containing non-empty data cells extracted from a baseline characteri
 “serial_number”: A unique identifier.
 <instructions>
 Follow these steps sequentially and ensure the final output is strictly based on the reasoning process.
-1. Extract numerical values: Analyze the “data_cell” and extract all distinct numeric values, split them into individual values, order the values sequentially as they appear in the “data_cell” and label them value1, value2, ..., valuen.
+1. Extract numerical values: Analyze the “data_cell” and determine whether it contains at least one numerical value. If the “data_cell” contains no numerical value, skip steps 2-4 for this object. If "data_cell" contains at leat one numerical value, extract all distinct numerical values, split them into individual values, order the values sequentially as they appear in the “data_cell” and label them value1, value2, ..., valuen.
 2. Infer the statistical type for each value: Use the combined context of the row headers, column headers and footnotes to determine what each value represents. For example, if headers contain "n (%)", the first value is "count", and the second is "percentage". If headers contain "mean (SD)", the first value is "mean", and the second is "standard deviation". After inferring the type, you MUST map it to one of the following standard type formats. If the inferred type cannot be mapped to any standard format, output as “Others”. Standard type formats and their definition: {type_mapping}
 3. Infer the unit of measurement for each value: Infer the unit from the row headers, column headers text and footnotes. For example, "FPG, mmol/L", the unit is "mmol/L". For counts/percentages without a physical unit, the unit is "count" or "percent". If the row and column headers do not contain any unit, attempt to infer from the table footnote. If still no unit can be inferred, assign the unit as "Others".
 4. Map the Inferred Unit to NCIT code: There is an ontology list that maps the possible units in the table to their corresponding codes. For each inferred unit, map it to one of the following standard NCIT codes according to the list below. If the inferred unit cannot be matched to any code in the list, output as “Others”. Standard unit codes: {unit_mapping}
-5. Generate the Output JSON: Process every object in the input JSON array. For each object, output a JSON object that verbatim includes:
-“data_cell”: the original data_cell
+5. Generate the Output JSON: Process every object in the input JSON array. For each object, If the “data_cell” contains at least one numerical value, output a JSON object that verbatim includes:
+“data_cell”: the original data_cell.
 “serial_number”: the original serial_number.
 “value”: An array of objects, one per extracted number, each containing:
   “value”: An independent numerical value.
   “type”: inferred statistical type, or “Others” if not found.
   “unit”: the NCI Thesaurus code, or “Others” if not found.
+If the "data_cell" contains no numerical value, output a JSON object that verbatim includes:
+“data_cell”: the original data_cell.
+“serial_number”: the original serial_number.
 Based on above analysis, generate a downloadable JSON file. The JSON output must correspond to analysis from above steps.
 </instructions>
 <input>
