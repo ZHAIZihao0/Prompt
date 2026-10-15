@@ -89,7 +89,7 @@ type_mapping = {
       "mean": "The sum of a set of values divided by the number of values in the set.",
       "median": "The value which has an equal number of values greater and less than it.",
       "p value": "The probability that the observed data could have arisen by chance when the interventions did not differ.",
-      "ratio": "An indication of a relationship in quantity, amount, or size between two entities or activities.",
+      "ratio": "The quotient of one quantity divided by another, with the same units of measurement.",
       "standard deviation": "Indicator of the relative variability of a variable around its mean.",
       "test statistic": "A test used to determine the statistical significance of an observation."
   }
